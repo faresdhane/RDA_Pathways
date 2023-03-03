@@ -1,0 +1,854 @@
+,book,word,n
+1,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",data,1849
+2,RDA COVID-19 Guidelines and Recommendations (draft versions),data,1513
+3,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,data,1167
+4,Top 10 FAIR Data & Software Things,data,925
+5,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",https,728
+6,Engaging Researchers with Data Management The Cookbook,data,707
+7,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",covid,659
+8,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",19,652
+9,RDA COVID-19 Guidelines and Recommendations (draft versions),2020,628
+10,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",2020,623
+11,Health Research Performing Organisations (HRPOs) FAIR Guidelines,data,586
+12,RDA COVID-19 Guidelines and Recommendations (draft versions),https,584
+13,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,data,560
+14,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,data,554
+15,RDA COVID-19 Guidelines and Recommendations (draft versions),covid,551
+16,RDA COVID-19 Guidelines and Recommendations (draft versions),19,540
+17,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",research,503
+18,A Fresh Look at FAIR for Research Software,software,432
+19,RDA COVID-19 Guidelines and Recommendations (draft versions),research,431
+20,Tracing Data - Data Citation Roadmap for Finland,data,410
+21,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,version,396
+22,Array Database Assessment Recommendations,array,389
+23,Developing a Research Data Policy Framework for All Journals and Publishers,data,388
+24,Defining Research Software a controversial discussion,software,376
+25,FAIR Principles for Research Software (FAIR4RS Principles),software,367
+26,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",sharing,365
+27,FAIR Data Maturity Model specification and guidelines,data,355
+28,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,research,351
+29,Engaging Researchers with Data Management The Cookbook,research,339
+30,Federated Identity Management for Research Collaborations,research,333
+31,10 Things for Curating Reproducible and FAIR Research,data,328
+32,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,data,327
+33,RDA Research Data Collections WG Recommendations,collection,326
+34,FAIR Data Maturity Model specification and guidelines - draft,data,321
+35,Array Database Assessment Recommendations,data,302
+36,Persistent identifiers Consolidated assertions,pid,298
+37,Use cases and identifier schemes for persistent software source code identification (V1.1),software,294
+38,Engaging Researchers with Data Management The Cookbook,researchers,286
+39,Income Streams for Data Repositories,data,281
+40,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",guidelines,280
+41,Defining Research Software a controversial discussion,research,277
+42,Health Research Performing Organisations (HRPOs) FAIR Guidelines,research,276
+43,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",health,273
+44,"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",doi.org,266
+45,Engaging Researchers with Data Management The Cookbook,management,263
+46,FAIR Data Maturity Model specification and guidelines,rda,262
+47,Engaging Researchers with Data Management The Cookbook,university,253
+48,FAIR Data Maturity Model specification and guidelines - draft,rda,250
+49,RDA COVID-19 Guidelines and Recommendations (draft versions),guidelines,247
+50,FAIR Data Maturity Model specification and guidelines,indicator,243
+51,FAIR Data Maturity Model specification and guidelines - draft,indicator,240
+52,10 Things for Curating Reproducible and FAIR Research,research,239
+53,Recommendations and Capacity Development Resource Kit,data,238
+54,RDA COVID-19 Guidelines and Recommendations (draft versions),recommendations,233
+55,Machine Actionable Policy Templates - Practical Policy WG Recommendations,policy,233
+56,Guidelines for publishing structured metadata on the Web,data,233
+57,Sustainable Business Models for Brokering Middleware to support Research Interoperability,software,231
+58,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,rights,227
+59,Health Research Performing Organisations (HRPOs) FAIR Guidelines,fair,227
+60,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,data,222
+61,RDA COVID-19 Guidelines and Recommendations (draft versions),software,222
+62,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,al,217
+63,Results of an Analysis of Existing FAIR Assessment Tools,data,215
+64,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,legal,215
+65,Machine Actionable Policy Templates - Practical Policy WG Recommendations,0,215
+66,RDA Research Data Collections WG Recommendations,description,214
+67,Eleven Quick Tips for Finding Research Data,data,213
+68,Health Research Performing Organisations (HRPOs) FAIR Guidelines,health,209
+69,Top 10 FAIR Data & Software Things,research,205
+70,RDA COVID-19 Guidelines and Recommendations (draft versions),sharing,204
+71,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,research,201
+72,Developing a Research Data Policy Framework for All Journals and Publishers,policy,201
+73,FAIR Data Maturity Model specification and guidelines - draft,fair,200
+74,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,stewardship,199
+75,Guidelines for publishing structured metadata on the Web,metadata,195
+76,FAIR Data Maturity Model specification and guidelines,metadata,195
+77,Federated Identity Management for Research Collaborations,data,193
+78,The Life Cycle of Structural Biology Data,data,192
+79,FAIR Data Maturity Model specification and guidelines,fair,187
+80,FAIR Data Maturity Model specification and guidelines - draft,metadata,187
+81,Engaging Researchers with Data Management The Cookbook,rdm,178
+82,RDA Research Data Collections WG Recommendations,data,177
+83,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,data,170
+84,RDA Research Data Collections WG Recommendations,collections,170
+85,RDA Research Data Collections WG Recommendations,type,166
+86,A Fresh Look at FAIR for Research Software,data,165
+87,Challenges of Curating for Reproducible and FAIR Research Output,reproducibility,159
+88,A Fresh Look at FAIR for Research Software,metadata,159
+89,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,management,158
+90,Top 10 FAIR Data & Software Things,fair,157
+91,PID Information Types (PIT) WG Recommendations,pid,155
+92,Federated Identity Management for Research Collaborations,access,151
+93,10 Things for Curating Reproducible and FAIR Research,code,151
+94,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,metadata,146
+95,Tracing Data - Data Citation Roadmap for Finland,research,143
+96,Top 10 FAIR Data & Software Things,software,143
+97,Summary of Virtual Layer Recommendations,data,142
+98,Machine Actionable Policy Templates - Practical Policy WG Recommendations,file,138
+99,Income Streams for Data Repositories,funding,138
+100,FAIR Data Maturity Model specification and guidelines,model,134
+101,FAIR Data Maturity Model specification and guidelines - draft,principle,134
+102,Challenges of Curating for Reproducible and FAIR Research Output,software,134
+103,FAIR Principles for Research Software (FAIR4RS Principles),principles,133
+104,Sustainable Business Models for Brokering Middleware to support Research Interoperability,data,132
+105,Challenges of Curating for Reproducible and FAIR Research Output,data,132
+106,FAIR Principles for Research Software (FAIR4RS Principles),research,131
+107,Developing a Research Data Policy Framework for All Journals and Publishers,research,130
+108,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,https,129
+109,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,learning,127
+110,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,training,127
+111,Persistent identifiers Consolidated assertions,data,127
+112,Array Database Assessment Recommendations,arrays,127
+113,Array Database Assessment Recommendations,databases,127
+114,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,adopt,126
+115,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,versioning,125
+116,A Fresh Look at FAIR for Research Software,fair,125
+117,FAIR Principles for Research Software (FAIR4RS Principles),fair,124
+118,A Fresh Look at FAIR for Research Software,principles,124
+119,FAIR Data Maturity Model specification and guidelines,maturity,123
+120,Engaging Researchers with Data Management The Cookbook,cc,123
+121,Top 10 FAIR Data & Software Things,1,122
+122,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,repository,122
+123,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,steward,122
+124,Machine Actionable Policy Templates - Practical Policy WG Recommendations,collection,121
+125,FAIR Data Maturity Model specification and guidelines - draft,model,121
+126,Federated Identity Management for Research Collaborations,identity,120
+127,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,search,119
+128,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,doi,119
+129,PID Information Types (PIT) WG Recommendations,data,118
+130,FAIR Data Maturity Model specification and guidelines - draft,maturity,118
+131,RDAWDS Publishing Data Workflows WG Recommendations,data,117
+132,Federated Identity Management for Research Collaborations,community,117
+133,Engaging Researchers with Data Management The Cookbook,4,117
+134,Recommendation on PID Kernel Information,pid,116
+135,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,researchers,116
+136,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,public,115
+137,Machine Actionable Policy Templates - Practical Policy WG Recommendations,1,115
+138,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,versions,115
+139,Challenges of Curating for Reproducible and FAIR Research Output,computational,115
+140,Challenges of Curating for Reproducible and FAIR Research Output,fair,114
+141,Sustainable Business Models for Brokering Middleware to support Research Interoperability,model,113
+142,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,access,113
+143,Engaging Researchers with Data Management The Cookbook,support,113
+144,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,data,113
+145,Sustainable Business Models for Brokering Middleware to support Research Interoperability,research,111
+146,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,dataset,111
+147,Top 10 FAIR Data & Software Things,2,110
+148,RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,2018,108
+149,Federated Identity Management for Research Collaborations,services,108
+150,Use cases and identifier schemes for persistent software source code identification (V1.1),code,106
+151,Sustainable Business Models for Brokering Middleware to support Research Interoperability,community,106
+152,10 Things for Curating Reproducible and FAIR Research,compendium,105
+153,Top 10 FAIR Data & Software Things,metadata,104
+154,Sustainable Business Models for Brokering Middleware to support Research Interoperability,support,104
+155,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,2016,104
+156,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,interoperability,104
+157,PID Information Types (PIT) WG Recommendations,type,104
+158,Machine Actionable Policy Templates - Practical Policy WG Recommendations,9,104
+159,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,release,104
+160,International Materials Resource Registries Working Group Final Report and Recommendations,registry,103
+161,FAIR Data Maturity Model specification and guidelines,indicators,102
+162,A survey of current practices in data search services,search,101
+163,10 Things for Curating Reproducible and FAIR Research,https,101
+164,Income Streams for Data Repositories,repositories,100
+165,Array Database Assessment Recommendations,query,100
+166,Federated Identity Management for Research Collaborations,user,98
+167,Recommendations and Capacity Development Resource Kit,training,97
+168,FAIR Data Maturity Model specification and guidelines,principle,97
+169,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,type,97
+170,Machine Actionable Policy Templates - Practical Policy WG Recommendations,type,96
+171,Guidelines for publishing structured metadata on the Web,research,96
+172,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,metadata,96
+173,Top 10 FAIR Data & Software Things,https,95
+174,Sustainable Business Models for Brokering Middleware to support Research Interoperability,broker,95
+175,FAIR Data Maturity Model specification and guidelines - draft,information,95
+176,Data Description Registry Interoperability Model,type,95
+177,Tracing Data - Data Citation Roadmap for Finland,citation,94
+178,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,http,94
+179,Research Data Repository Interoperability Primer,data,93
+180,Federated Identity Management for Research Collaborations,communities,93
+181,Top 10 FAIR Data & Software Things,activity,92
+182,Engaging Researchers with Data Management The Cookbook,https,92
+183,Challenges of Curating for Reproducible and FAIR Research Output,challenges,92
+184,Federated Identity Management for Research Collaborations,users,91
+185,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,data,91
+186,Results of an Analysis of Existing FAIR Assessment Tools,metadata,90
+187,PID Information Types (PIT) WG Recommendations,information,90
+188,A survey of current practices in data search services,data,90
+189,PID Information Types (PIT) WG Recommendations,types,87
+190,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,communities,87
+191,International Materials Resource Registries Working Group Final Report and Recommendations,data,87
+192,Federated Identity Management for Research Collaborations,federation,87
+193,Federated Identity Management for Research Collaborations,service,87
+194,Machine Actionable Policy Templates - Practical Policy WG Recommendations,irods,86
+195,Guidelines for publishing structured metadata on the Web,https,86
+196,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",information,86
+197,FAIR Principles for Research Software (FAIR4RS Principles),0,85
+198,Data Description Registry Interoperability Model,data,85
+199,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,set,84
+200,Persistent identifiers Consolidated assertions,information,84
+201,Array Database Assessment Recommendations,report,84
+202,Use cases and identifier schemes for persistent software source code identification (V1.1),source,83
+203,Guidelines for publishing structured metadata on the Web,structured,83
+204,A Survey on Adoption Guidelines for the FAIR4RS Principles,software,83
+205,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,versioning,82
+206,Recommendation on PID Kernel Information,information,82
+207,Metadata Standards Directory Working Group Recommendations,directory,82
+208,Machine Actionable Policy Templates - Practical Policy WG Recommendations,files,82
+209,International Materials Resource Registries Working Group Final Report and Recommendations,metadata,82
+210,FAIR Principles for Research Software (FAIR4RS Principles),metadata,82
+211,RDA Research Data Collections WG Recommendations,response,81
+212,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,resources,80
+213,Recommendations and Capacity Development Resource Kit,management,80
+214,RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,implementation,80
+215,Income Streams for Data Repositories,research,80
+216,Guidelines for publishing structured metadata on the Web,schema.org,80
+217,Guidelines for publishing structured metadata on the Web,schemas,80
+218,FAIR Principles for Research Software (FAIR4RS Principles),data,80
+219,A Fresh Look at FAIR for Research Software,research,80
+220,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,minimal,79
+221,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,resource,79
+222,FAIR Data Maturity Model specification and guidelines - draft,indicators,79
+223,Summary of Virtual Layer Recommendations,metadata,78
+224,RDA Research Data Collections WG Recommendations,definitions,78
+225,RDA Research Data Collections WG Recommendations,request,78
+226,Persistent identifiers Consolidated assertions,pids,78
+227,Guidelines for publishing structured metadata on the Web,web,78
+228,Array Database Assessment Recommendations,code,77
+229,10 Things for Curating Reproducible and FAIR Research,metadata,77
+230,Recommendation on PID Kernel Information,profile,76
+231,Persistent identifiers Consolidated assertions,digital,76
+232,Persistent Identification of Instruments,instrument,75
+233,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,level,75
+234,Top 10 FAIR Data & Software Things,information,74
+235,Scalable Dynamic Data Citation Methodology,data,74
+236,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,training,74
+237,FAIR Data Maturity Model specification and guidelines,identifier,74
+238,Defining Research Software a controversial discussion,scientific,74
+239,Sustainable Business Models for Brokering Middleware to support Research Interoperability,business,73
+240,RDAWDS Publishing Data Workflows WG Recommendations,research,73
+241,practical_policy,policy,73
+242,Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,1,73
+243,RDA Research Data Collections WG Recommendations,schema,72
+244,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,fair,72
+245,Developing a Research Data Policy Framework for All Journals and Publishers,journal,72
+246,10 Things for Curating Reproducible and FAIR Research,reproducibility,72
+247,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,data,71
+248,Challenges of Curating for Reproducible and FAIR Research Output,research,71
+249,Sustainable Business Models for Brokering Middleware to support Research Interoperability,brokering,70
+250,Summary of Virtual Layer Recommendations,digital,70
+251,RDA Research Data Collections WG Recommendations,ref,70
+252,Persistent Identification of Instruments,data,70
+253,Persistent Identification of Instruments,metadata,70
+254,Metadata Standards Directory Working Group Recommendations,standards,70
+255,A survey of current practices in data search services,repositories,70
+256,10 Things for Curating Reproducible and FAIR Research,science,70
+257,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,testbed,69
+258,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,research,69
+259,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",data,68
+260,Research Data Repository Interoperability WG Final Recommendations,data,68
+261,Developing a Research Data Policy Framework for All Journals and Publishers,journals,68
+262,Challenges of Curating for Reproducible and FAIR Research Output,code,68
+263,10 Things for Curating Reproducible and FAIR Research,fair,68
+264,Sustainable Business Models for Brokering Middleware to support Research Interoperability,funding,67
+265,Core Characteristics of Learning Resource Collectors,learning,67
+266,10 Things for Curating Reproducible and FAIR Research,information,67
+267,Recommendation on PID Kernel Information,kernel,66
+268,PID Information Types (PIT) WG Recommendations,object,66
+269,Use cases and identifier schemes for persistent software source code identification (V1.1),https,65
+270,Summary of Virtual Layer Recommendations,pid,65
+271,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,framework,65
+272,International Materials Resource Registries Working Group Final Report and Recommendations,materials,65
+273,International Materials Resource Registries Working Group Final Report and Recommendations,resource,65
+274,Health Research Performing Organisations (HRPOs) FAIR Guidelines,article,65
+275,Array Database Assessment Recommendations,systems,65
+276,Income Streams for Data Repositories,income,64
+277,Array Database Assessment Recommendations,source,64
+278,The FAIR4RS Team Working Together to Make Research Software FAIR,research,63
+279,Results of an Analysis of Existing FAIR Assessment Tools,fair,63
+280,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,fairness,63
+281,Health Research Performing Organisations (HRPOs) FAIR Guidelines,eu,63
+282,Developing a Research Data Policy Framework for All Journals and Publishers,policies,63
+283,Array Database Assessment Recommendations,processing,63
+284,23 Things Libraries for Research Data (Supporting Output),data,63
+285,Results of an Analysis of Existing FAIR Assessment Tools,methodology,62
+286,Persistent identifiers Consolidated assertions,metadata,62
+287,Machine Actionable Policy Templates - Practical Policy WG Recommendations,access,62
+288,Developing a Research Data Policy Framework for All Journals and Publishers,sharing,62
+289,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,repositories,62
+290,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,version,61
+291,Tromso recommendations for citation of research data in linguistics,citation,61
+292,Tromso recommendations for citation of research data in linguistics,data,61
+293,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",fairsharing,61
+294,Summary of Virtual Layer Recommendations,rda,61
+295,Scholix Metadata Schema for Exchange of Scholarly Communication Links,1,61
+296,Results of an Analysis of Existing FAIR Assessment Tools,8,61
+297,Results of an Analysis of Existing FAIR Assessment Tools,link,61
+298,Recommendation on PID Kernel Information,object,61
+299,Persistent Identification of Instruments,schema,61
+300,Metadata Standards Directory Working Group Recommendations,metadata,61
+301,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,funders,61
+302,Guidelines for publishing structured metadata on the Web,search,61
+303,PID Information Types (PIT) WG Recommendations,system,60
+304,Recommendation on PID Kernel Information,data,59
+305,A Fresh Look at FAIR for Research Software,source,59
+306,practical_policy,data,58
+307,Persistent identifiers Consolidated assertions,rda,58
+308,FAIR Principles for Research Software (FAIR4RS Principles),fair4rs,58
+309,Tracing Data - Data Citation Roadmap for Finland,national,57
+310,Scholix Metadata Schema for Exchange of Scholarly Communication Links,object,57
+311,Persistent Identification of Instruments,instruments,57
+312,Guidelines for publishing structured metadata on the Web,repositories,57
+313,Use cases and identifier schemes for persistent software source code identification (V1.1),research,56
+314,The Life Cycle of Structural Biology Data,structural,56
+315,Persistent identifiers Consolidated assertions,object,56
+316,Persistent Identification of Instruments,persistent,56
+317,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,variable,56
+318,The FAIR4RS Team Working Together to Make Research Software FAIR,software,55
+319,Persistent Identification of Instruments,https,55
+320,A Survey on Adoption Guidelines for the FAIR4RS Principles,research,55
+321,practical_policy,policies,54
+322,PID Information Types (PIT) WG Recommendations,identifier,54
+323,Persistent identifiers Consolidated assertions,https,54
+324,Metadata Schema for the Persistent Identification of Instruments,1,54
+325,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,fdmm,54
+326,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,data,54
+327,Defining Research Software a controversial discussion,al,54
+328,A Fresh Look at FAIR for Research Software,code,54
+329,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,dataset,53
+330,RDAWDS Publishing Data Workflows WG Recommendations,workflows,53
+331,Income Streams for Data Repositories,streams,53
+332,Developing a Research Data Policy Framework for All Journals and Publishers,repositories,53
+333,A Fresh Look at FAIR for Research Software,guiding,53
+334,Wheat Data Interoperability Recommendations,data,52
+335,Research Data Repository Interoperability WG Final Recommendations,metadata,52
+336,International Materials Resource Registries Working Group Final Report and Recommendations,schema,52
+337,Health Research Performing Organisations (HRPOs) FAIR Guidelines,policy,52
+338,A Survey on Adoption Guidelines for the FAIR4RS Principles,fair4rs,52
+339,A survey of current practices in data search services,evaluation,52
+340,Results of an Analysis of Existing FAIR Assessment Tools,4,51
+341,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,information,51
+342,Persistent identifiers Consolidated assertions,handle,51
+343,Persistent Identification of Instruments,pidinst,51
+344,International Materials Resource Registries Working Group Final Report and Recommendations,records,51
+345,Developing a Research Data Policy Framework for All Journals and Publishers,authors,51
+346,Developing a Research Data Policy Framework for All Journals and Publishers,publishers,51
+347,Scholix Metadata Schema for Exchange of Scholarly Communication Links,link,50
+348,Scholix Metadata Schema for Exchange of Scholarly Communication Links,scholix,50
+349,Health Research Performing Organisations (HRPOs) FAIR Guidelines,public,50
+350,Health Research Performing Organisations (HRPOs) FAIR Guidelines,sharing,50
+351,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,repository,50
+352,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,requirements,50
+353,Tromso recommendations for citation of research data in linguistics,resource,49
+354,The Life Cycle of Structural Biology Data,al,49
+355,Results of an Analysis of Existing FAIR Assessment Tools,cc,49
+356,Results of an Analysis of Existing FAIR Assessment Tools,sa,49
+357,Metadata Principles,metadata,49
+358,Income Streams for Data Repositories,access,49
+359,Health Research Performing Organisations (HRPOs) FAIR Guidelines,principles,49
+360,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,tools,49
+361,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,doi,48
+362,Results of an Analysis of Existing FAIR Assessment Tools,2020,48
+363,Recommendations and Capacity Development Resource Kit,online,48
+364,FAIR4RS Adoption support,software,48
+365,FAIR Principles for Research Software (FAIR4RS Principles),2,48
+366,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,research,48
+367,A Fresh Look at FAIR for Research Software,principle,48
+368,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,al,47
+369,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,requirements,47
+370,Recommendation on PID Kernel Information,record,47
+371,Defining Research Software a controversial discussion,rs,47
+372,Research Data Repository Interoperability WG Final Recommendations,bagit,46
+373,Research Data Repository Interoperability Primer,research,46
+374,Recommendations and Capacity Development Resource Kit,resources,46
+375,Metadata Schema for the Persistent Identification of Instruments,instrument,46
+376,FAIR Principles for Research Software (FAIR4RS Principles),version,46
+377,practical_policy,file,45
+378,PID Information Types (PIT) WG Recommendations,user,45
+379,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,survey,45
+380,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,variables,45
+381,Income Streams for Data Repositories,infrastructure,45
+382,Income Streams for Data Repositories,services,45
+383,Defining Research Software a controversial discussion,https,45
+384,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,types,45
+385,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,discovery,45
+386,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,metadata,45
+387,Core Characteristics of Learning Resource Collectors,resources,45
+388,Use cases and identifier schemes for persistent software source code identification (V1.1),identifier,44
+389,Tracing Data - Data Citation Roadmap for Finland,information,44
+390,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",standards,44
+391,Scholix Metadata Schema for Exchange of Scholarly Communication Links,schema,44
+392,Recommendations and Capacity Development Resource Kit,research,44
+393,PID Information Types (PIT) WG Recommendations,metadata,44
+394,PID Information Types (PIT) WG Recommendations,record,44
+395,A survey of current practices in data search services,retrieval,44
+396,A survey of current practices in data search services,survey,44
+397,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,resources,44
+398,Use cases and identifier schemes for persistent software source code identification (V1.1),identifiers,43
+399,Tracing Data - Data Citation Roadmap for Finland,researchers,43
+400,Summary of Virtual Layer Recommendations,fair,43
+401,Research Data Repository Interoperability Primer,repository,43
+402,Use cases and identifier schemes for persistent software source code identification (V1.1),project,42
+403,Tracing Data - Data Citation Roadmap for Finland,science,42
+404,Scholix Metadata Schema for Exchange of Scholarly Communication Links,information,42
+405,Research Data Repository Interoperability Primer,metadata,42
+406,Income Streams for Data Repositories,repository,42
+407,Data Description Registry Interoperability Model,types,42
+408,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",data,42
+409,A survey of current practices in data search services,1,42
+410,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,research,41
+411,Tromso recommendations for citation of research data in linguistics,text,41
+412,Research Data Repository Interoperability WG Final Recommendations,repository,41
+413,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,data,41
+414,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,focus,41
+415,Persistent Identification of Instruments,identification,41
+416,International Materials Resource Registries Working Group Final Report and Recommendations,science,41
+417,Core Characteristics of Learning Resource Collectors,data,41
+418,A Survey on Adoption Guidelines for the FAIR4RS Principles,principles,41
+419,A survey of current practices in data search services,information,41
+420,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,data,41
+421,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,model,40
+422,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,tail,40
+423,Recommendations and Capacity Development Resource Kit,agriculture,39
+424,practical_policy,access,39
+425,practical_policy,collection,39
+426,Metadata Schema for the Persistent Identification of Instruments,identifier,39
+427,Eleven Quick Tips for Finding Research Data,search,39
+428,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,users,39
+429,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",hubs,39
+430,The Life Cycle of Structural Biology Data,pdb,38
+431,The FAIR4RS Team Working Together to Make Research Software FAIR,fair,38
+432,Summary of Virtual Layer Recommendations,objects,38
+433,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,evidence,38
+434,Recommendation on PID Kernel Information,ki,38
+435,FAIR4RS Adoption support,fair4rs,38
+436,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,title,38
+437,Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,https,38
+438,Data Description Registry Interoperability Model,title,38
+439,Challenges of Curating for Reproducible and FAIR Research Output,reproducible,38
+440,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,dataset,38
+441,Research Data Repository Interoperability WG Final Recommendations,profile,37
+442,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,metadata,37
+443,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,wg,37
+444,Recommendation on PID Kernel Information,type,37
+445,practical_policy,metadata,37
+446,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,research,37
+447,Core Characteristics of Learning Resource Collectors,catalogue,37
+448,Challenges of Curating for Reproducible and FAIR Research Output,challenge,37
+449,Challenges of Curating for Reproducible and FAIR Research Output,cure,37
+450,A survey of current practices in data search services,system,37
+451,Tracing Data - Data Citation Roadmap for Finland,finnish,36
+452,The Life Cycle of Structural Biology Data,nmr,36
+453,Summary of Virtual Layer Recommendations,repositories,36
+454,Research Data Repository Interoperability WG Final Recommendations,research,36
+455,International Materials Resource Registries Working Group Final Report and Recommendations,registries,36
+456,Core Characteristics of Learning Resource Collectors,registry,36
+457,Core Characteristics of Learning Resource Collectors,training,36
+458,Use cases and identifier schemes for persistent software source code identification (V1.1),version,35
+459,Tromso recommendations for citation of research data in linguistics,date,35
+460,Tracing Data - Data Citation Roadmap for Finland,metadata,35
+461,The Life Cycle of Structural Biology Data,structures,35
+462,Summary of Virtual Layer Recommendations,repository,35
+463,Scholix Metadata Schema for Exchange of Scholarly Communication Links,type,35
+464,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,wds,35
+465,Recommendations and Capacity Development Resource Kit,igad,35
+466,Recommendations and Capacity Development Resource Kit,module,35
+467,RDAWDS Publishing Data Workflows WG Recommendations,workflow,35
+468,Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,community,35
+469,International Materials Resource Registries Working Group Final Report and Recommendations,resources,35
+470,Eleven Quick Tips for Finding Research Data,https,35
+471,Defining Research Software a controversial discussion,data,35
+472,Defining Research Software a controversial discussion,discussion,35
+473,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",links,35
+474,A Survey on Adoption Guidelines for the FAIR4RS Principles,resources,35
+475,A survey of current practices in data search services,ranking,35
+476,A survey of current practices in data search services,responses,35
+477,The Life Cycle of Structural Biology Data,biology,34
+478,The Life Cycle of Structural Biology Data,experimental,34
+479,The Life Cycle of Structural Biology Data,structure,34
+480,The FAIR4RS Team Working Together to Make Research Software FAIR,community,34
+481,Recommendations and Capacity Development Resource Kit,development,34
+482,RDAWDS Publishing Data Workflows WG Recommendations,publishing,34
+483,RDATDWG Attribution Metadata Working Group Final Recommendations,recommendations,34
+484,Persistent Identification of Instruments,1,34
+485,Persistent Identification of Instruments,identifier,34
+486,Data Description Registry Interoperability Model,registry,34
+487,A curriculum for foundational Research Data Science skills for Early Career Researchers,data,34
+488,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,collection,34
+489,Wheat Data Interoperability Recommendations,wheat,33
+490,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,klump,33
+491,Use cases and identifier schemes for persistent software source code identification (V1.1),e.g,33
+492,Use cases and identifier schemes for persistent software source code identification (V1.1),metadata,33
+493,The FAIR4RS Team Working Together to Make Research Software FAIR,fair4rs,33
+494,Repository Audit and Certification DSA-WDS Partnership WG Recommendations,guidance,33
+495,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,registry,33
+496,Tracing Data - Data Citation Roadmap for Finland,reference,32
+497,Scalable Dynamic Data Citation Methodology,query,32
+498,Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,user,32
+499,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,terminologies,32
+500,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",research,32
+501,23 Things Physical Samples,https,32
+502,Scholix Metadata Schema for Exchange of Scholarly Communication Links,id,31
+503,Recommendation on PID Kernel Information,attribute,31
+504,Recommendation on PID Kernel Information,principle,31
+505,Metadata Schema for the Persistent Identification of Instruments,values,31
+506,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,type,31
+507,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,https,30
+508,Tromso recommendations for citation of research data in linguistics,dataset,30
+509,Report prepared at Plenary 3,data,30
+510,Defining Research Software a controversial discussion,doi.org,30
+511,Core Characteristics of Learning Resource Collectors,characteristics,30
+512,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,md_identification,30
+513,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,semantic,30
+514,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",community,29
+515,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",databases,29
+516,Summary of Virtual Layer Recommendations,system,29
+517,Metadata Schema for the Persistent Identification of Instruments,instruments,29
+518,Metadata Schema for the Persistent Identification of Instruments,metadata,29
+519,Defining Research Software a controversial discussion,defining,29
+520,A curriculum for foundational Research Data Science skills for Early Career Researchers,research,29
+521,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,dataset,28
+522,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,fitness,28
+523,Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,1,28
+524,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",https,28
+525,Scholix Metadata Schema for Exchange of Scholarly Communication Links,0,28
+526,practical_policy,practical,28
+527,Metadata Schema for the Persistent Identification of Instruments,persistent,28
+528,Metadata Schema for the Persistent Identification of Instruments,property,28
+529,Metadata Schema for the Persistent Identification of Instruments,schema,28
+530,FAIR4RS Adoption support,principles,28
+531,Eleven Quick Tips for Finding Research Data,research,28
+532,Core Characteristics of Learning Resource Collectors,resource,28
+533,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",repositories,27
+534,Scholix Metadata Schema for Exchange of Scholarly Communication Links,metadata,27
+535,RDAWDS Publishing Data Workflows WG Recommendations,researchers,27
+536,RDATDWG Attribution Metadata Working Group Final Recommendations,metadata,27
+537,RDA DMP Common Standard for Machine-actionable Data Management Plans,data,27
+538,practical_policy,files,27
+539,A curriculum for foundational Research Data Science skills for Early Career Researchers,https,27
+540,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,metadata,27
+541,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,url,27
+542,RDATDWG Attribution Metadata Working Group Final Recommendations,data,26
+543,Eleven Quick Tips for Finding Research Data,tip,26
+544,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",framework,26
+545,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",interoperability,26
+546,A Survey on Adoption Guidelines for the FAIR4RS Principles,adoption,26
+547,A Survey on Adoption Guidelines for the FAIR4RS Principles,fair,26
+548,A curriculum for foundational Research Data Science skills for Early Career Researchers,0,26
+549,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,sr,26
+550,Tromso recommendations for citation of research data in linguistics,author,25
+551,The Life Cycle of Structural Biology Data,doi,25
+552,RDATDWG Attribution Metadata Working Group Final Recommendations,prov,25
+553,practical_policy,attributes,25
+554,practical_policy,constraint,25
+555,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,string,25
+556,Data Description Registry Interoperability Model,string,25
+557,Core Characteristics of Learning Resource Collectors,metadata,25
+558,A curriculum for foundational Research Data Science skills for Early Career Researchers,day,25
+559,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,schema:creativework,25
+560,Tromso recommendations for citation of research data in linguistics,citations,24
+561,The FAIR4RS Team Working Together to Make Research Software FAIR,wg,24
+562,Research Data Repository Interoperability WG Final Recommendations,bag,24
+563,Metadata Schema for the Persistent Identification of Instruments,text,24
+564,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,entity,24
+565,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,property,24
+566,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,format,24
+567,Data Description Registry Interoperability Model,format,24
+568,Core Characteristics of Learning Resource Collectors,services,24
+569,Tromso recommendations for citation of research data in linguistics,e.g,23
+570,Tromso recommendations for citation of research data in linguistics,university,23
+571,The FAIR4RS Team Working Together to Make Research Software FAIR,principles,23
+572,Research Data Repository Interoperability WG Final Recommendations,platform,23
+573,Research Data Repository Interoperability WG Final Recommendations,required,23
+574,RDAWDS Publishing Data Workflows WG Recommendations,publication,23
+575,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,concepts,23
+576,InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,terminology,23
+577,A Survey on Adoption Guidelines for the FAIR4RS Principles,data,23
+578,A Survey on Adoption Guidelines for the FAIR4RS Principles,guidelines,23
+579,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,schema.org,23
+580,23 Things Physical Samples,data,23
+581,23 Things Libraries for Research Data (Supporting Output),research,23
+582,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,data,22
+583,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",resource,22
+584,Research Data Repository Interoperability WG Final Recommendations,files,22
+585,Research Data Repository Interoperability WG Final Recommendations,https,22
+586,Research Data Repository Interoperability WG Final Recommendations,interoperability,22
+587,Research Data Repository Interoperability WG Final Recommendations,wg,22
+588,RDAWDS Publishing Data Workflows WG Recommendations,2015,22
+589,RDA DMP Common Standard for Machine-actionable Data Management Plans,dmp,22
+590,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",literature,22
+591,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",model,22
+592,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,creativework,22
+593,23 Things Physical Samples,samples,22
+594,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",research,21
+595,Scalable Dynamic Data Citation Methodology,set,21
+596,Research Data Repository Interoperability Primer,api,21
+597,RDATDWG Attribution Metadata Working Group Final Recommendations,activity,21
+598,Metadata Standards Directory Working Group Recommendations,dcc,21
+599,FAIR4RS Adoption support,research,21
+600,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,registries,21
+601,A Survey on Adoption Guidelines for the FAIR4RS Principles,metadata,21
+602,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,citation,21
+603,A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,description,21
+604,Research Data Repository Interoperability Primer,interoperability,20
+605,RDATDWG Attribution Metadata Working Group Final Recommendations,wg,20
+606,Metadata Standards Directory Working Group Recommendations,data,20
+607,Metadata Standards Directory Working Group Recommendations,entries,20
+608,Metadata Standards Directory Working Group Recommendations,standard,20
+609,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,dft,20
+610,A curriculum for foundational Research Data Science skills for Early Career Researchers,carpentry,20
+611,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,e.g,20
+612,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,support,20
+613,23 Things Libraries for Research Data (Supporting Output),https,20
+614,23 Things Libraries for Research Data (Supporting Output),tinyurl.com,20
+615,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",policies,19
+616,"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies",resources,19
+617,Research Data Repository Interoperability Primer,1,19
+618,Research Data Repository Interoperability Primer,standard,19
+619,RDAWDS Publishing Data Workflows WG Recommendations,al,19
+620,RDATDWG Attribution Metadata Working Group Final Recommendations,agent,19
+621,RDA DMP Common Standard for Machine-actionable Data Management Plans,application,19
+622,RDA DMP Common Standard for Machine-actionable Data Management Plans,profile,19
+623,Metadata Standards Directory Working Group Recommendations,pages,19
+624,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,data,19
+625,A curriculum for foundational Research Data Science skills for Early Career Researchers,science,19
+626,Metadata Standards Directory Working Group Recommendations,github,18
+627,Metadata Principles,data,18
+628,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,wg,18
+629,Data Description Registry Interoperability Model,description,18
+630,Data Description Registry Interoperability Model,model,18
+631,Data Description Registry Interoperability Model,wg,18
+632,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,alignment,18
+633,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,metadata,18
+634,Wheat Data Interoperability Recommendations,ontology,17
+635,Research Data Repository Interoperability Primer,ddi,17
+636,Research Data Repository Interoperability Primer,gaps,17
+637,RDAWDS Publishing Data Workflows WG Recommendations,collection,17
+638,RDATDWG Attribution Metadata Working Group Final Recommendations,collections,17
+639,RDA DMP Common Standard for Machine-actionable Data Management Plans,machine,17
+640,RDA Data Usage Metrics WG Recommendations,data,17
+641,Eleven Quick Tips for Finding Research Data,repositories,17
+642,"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",services,17
+643,A curriculum for foundational Research Data Science skills for Early Career Researchers,30,17
+644,23 Things Physical Samples,physical,17
+645,RDA DMP Common Standard for Machine-actionable Data Management Plans,actionable,16
+646,Principles and best practices in data versioning for all data sets big and small,data,16
+647,Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,model,16
+648,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,management,16
+649,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,semantics,16
+650,39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,srs,16
+651,23 Things Physical Samples,doi.org,16
+652,23 Things Libraries for Research Data (Supporting Output),librarians,16
+653,Wheat Data Interoperability Recommendations,information,15
+654,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,mark,15
+655,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,oval,15
+656,RDATDWG Attribution Metadata Working Group Final Recommendations,research,15
+657,RDATDWG Attribution Metadata Working Group Final Recommendations,role,15
+658,RDATDWG Attribution Metadata Working Group Final Recommendations,vivo,15
+659,Metadata Principles,software,15
+660,FAIR4RS Adoption support,adoption,15
+661,A curriculum for foundational Research Data Science skills for Early Career Researchers,doi.org,15
+662,A curriculum for foundational Research Data Science skills for Early Career Researchers,responsible,15
+663,23 Things Physical Samples,research,15
+664,Wheat Data Interoperability Recommendations,interoperability,14
+665,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,checklist,14
+666,The FAIR4RS Team Working Together to Make Research Software FAIR,data,14
+667,Scalable Dynamic Data Citation Methodology,queries,14
+668,RDA DMP Common Standard for Machine-actionable Data Management Plans,common,14
+669,RDA DMP Common Standard for Machine-actionable Data Management Plans,information,14
+670,RDA DMP Common Standard for Machine-actionable Data Management Plans,management,14
+671,Eleven Quick Tips for Finding Research Data,7,14
+672,Wheat Data Interoperability Recommendations,ontologies,13
+673,Wheat Data Interoperability Recommendations,wdi,13
+674,Wheat Data Interoperability Recommendations,wg,13
+675,The FAIR4RS Team Working Together to Make Research Software FAIR,engagement,13
+676,Metadata Standards Directory Working Group Recommendations,3,13
+677,Metadata Standards Directory Working Group Recommendations,tools,13
+678,FAIR4RS Adoption support,https,13
+679,Eleven Quick Tips for Finding Research Data,access,13
+680,Eleven Quick Tips for Finding Research Data,repository,13
+681,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,communities,13
+682,Wheat Data Interoperability Recommendations,research,12
+683,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,repository,12
+684,Report prepared at Plenary 3,structural,12
+685,RDA DMP Common Standard for Machine-actionable Data Management Plans,rda,12
+686,FAIR4RS Adoption support,0,12
+687,Eleven Quick Tips for Finding Research Data,2018,12
+688,Eleven Quick Tips for Finding Research Data,results,12
+689,Wheat Data Interoperability Recommendations,1,11
+690,Wheat Data Interoperability Recommendations,dr,11
+691,Wheat Data Interoperability Recommendations,guidelines,11
+692,Wheat Data Interoperability Recommendations,international,11
+693,Scalable Dynamic Data Citation Methodology,citation,11
+694,Metadata Principles,attributes,11
+695,Metadata Principles,common,11
+696,Metadata Principles,datasets,11
+697,Metadata Principles,research,11
+698,FAIR4RS Adoption support,data,11
+699,FAIR4RS Adoption support,esmvaltool,11
+700,FAIR4RS Adoption support,fair,11
+701,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,datasets,11
+702,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,researchers,11
+703,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,assessment,10
+704,The FAIR4RS Team Working Together to Make Research Software FAIR,2021,10
+705,The FAIR4RS Team Working Together to Make Research Software FAIR,committee,10
+706,The FAIR4RS Team Working Together to Make Research Software FAIR,guidelines,10
+707,The FAIR4RS Team Working Together to Make Research Software FAIR,outputs,10
+708,Scalable Dynamic Data Citation Methodology,timestamp,10
+709,RDA Data Usage Metrics WG Recommendations,metrics,10
+710,RDA Data Usage Metrics WG Recommendations,usage,10
+711,Metadata Principles,schemes,10
+712,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,funding,10
+713,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,support,10
+714,23 Things Physical Samples,metadata,10
+715,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,criteria,9
+716,Sharing COVID-19 Epidemiology Data,data,9
+717,Scalable Dynamic Data Citation Methodology,pid,9
+718,Principles and best practices in data versioning for all data sets big and small,versioning,9
+719,Metadata Principles,contextual,9
+720,Metadata Principles,required,9
+721,Metadata Principles,scheme,9
+722,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,interact,9
+723,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,diverse,9
+724,Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,rda,9
+725,23 Things Libraries for Research Data (Supporting Output),digital,9
+726,Scalable Dynamic Data Citation Methodology,sets,8
+727,Scalable Dynamic Data Citation Methodology,store,8
+728,Report prepared at Plenary 3,biology,8
+729,23 Things Physical Samples,http,8
+730,23 Things Libraries for Research Data (Supporting Output),libraries,8
+731,23 Things Libraries for Research Data (Supporting Output),management,8
+732,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,coretrustseal,7
+733,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,description,7
+734,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,evaluation,7
+735,WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,https,7
+736,Sharing COVID-19 Epidemiology Data,19,7
+737,Sharing COVID-19 Epidemiology Data,covid,7
+738,Scalable Dynamic Data Citation Methodology,wg,7
+739,Report prepared at Plenary 3,infrastructures,7
+740,23 Things Physical Samples,al,7
+741,23 Things Physical Samples,collections,7
+742,23 Things Physical Samples,identifiers,7
+743,23 Things Physical Samples,persistent,7
+744,23 Things Libraries for Research Data (Supporting Output),community,7
+745,23 Things Libraries for Research Data (Supporting Output),information,7
+746,23 Things Libraries for Research Data (Supporting Output),researchers,7
+747,Report prepared at Plenary 3,management,6
+748,Report prepared at Plenary 3,sb,6
+749,Principles and best practices in data versioning for all data sets big and small,practices,6
+750,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,conceptualization,6
+751,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,core,6
+752,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,eudat,6
+753,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,experts,6
+754,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,flyer,6
+755,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,meetings,6
+756,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,rda,6
+757,Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,terminology,6
+758,Sharing COVID-19 Epidemiology Data,epidemiology,5
+759,Report prepared at Plenary 3,techniques,5
+760,RDA Data Usage Metrics WG Recommendations,wg,5
+761,Principles and best practices in data versioning for all data sets big and small,principles,5
+762,Sharing COVID-19 Epidemiology Data,guidelines,4
+763,Report prepared at Plenary 3,component,4
+764,Report prepared at Plenary 3,experimental,4
+765,Report prepared at Plenary 3,infrastructure,4
+766,Report prepared at Plenary 3,meeting,4
+767,Report prepared at Plenary 3,multi,4
+768,Report prepared at Plenary 3,rda,4
+769,Report prepared at Plenary 3,research,4
+770,Principles and best practices in data versioning for all data sets big and small,research,4
+771,Principles and best practices in data versioning for all data sets big and small,sets,4
+772,Sharing COVID-19 Epidemiology Data,rda,3
+773,Sharing COVID-19 Epidemiology Data,system,3
+774,RDA Data Usage Metrics WG Recommendations,community,3
+775,RDA Data Usage Metrics WG Recommendations,recommendations,3
+776,RDA Data Usage Metrics WG Recommendations,research,3
+777,Sharing COVID-19 Epidemiology Data,coordinated,2
+778,Sharing COVID-19 Epidemiology Data,driven,2
+779,Sharing COVID-19 Epidemiology Data,epidemiological,2
+780,Sharing COVID-19 Epidemiology Data,framework,2
+781,Sharing COVID-19 Epidemiology Data,global,2
+782,Sharing COVID-19 Epidemiology Data,newly,2
+783,Sharing COVID-19 Epidemiology Data,output,2
+784,Sharing COVID-19 Epidemiology Data,rapid,2
+785,Sharing COVID-19 Epidemiology Data,related,2
+786,Sharing COVID-19 Epidemiology Data,support,2
+787,Sharing COVID-19 Epidemiology Data,supporting,2
+788,Sharing COVID-19 Epidemiology Data,threats,2
+789,RDA Data Usage Metrics WG Recommendations,adoption,2
+790,RDA Data Usage Metrics WG Recommendations,conversations,2
+791,RDA Data Usage Metrics WG Recommendations,count,2
+792,RDA Data Usage Metrics WG Recommendations,development,2
+793,RDA Data Usage Metrics WG Recommendations,limitations,2
+794,RDA Data Usage Metrics WG Recommendations,normalizing,2
+795,RDA Data Usage Metrics WG Recommendations,repositories,2
+796,Principles and best practices in data versioning for all data sets big and small,recommendations,2
+797,Principles and best practices in data versioning for all data sets big and small,reproducibility,2
+798,Principles and best practices in data versioning for all data sets big and small,systematic,2
+799,Principles and best practices in data versioning for all data sets big and small,2020,1
+800,Principles and best practices in data versioning for all data sets big and small,38,1
+801,Principles and best practices in data versioning for all data sets big and small,accessed,1
+802,Principles and best practices in data versioning for all data sets big and small,adding,1
+803,Principles and best practices in data versioning for all data sets big and small,alliance.org,1
+804,Principles and best practices in data versioning for all data sets big and small,analysis,1
+805,Principles and best practices in data versioning for all data sets big and small,attribution,1
+806,Principles and best practices in data versioning for all data sets big and small,august,1
+807,Principles and best practices in data versioning for all data sets big and small,availability,1
+808,Principles and best practices in data versioning for all data sets big and small,based,1
+809,Principles and best practices in data versioning for all data sets big and small,central,1
+810,Principles and best practices in data versioning for all data sets big and small,challenge,1
+811,Principles and best practices in data versioning for all data sets big and small,cite,1
+812,Principles and best practices in data versioning for all data sets big and small,collected,1
+813,Principles and best practices in data versioning for all data sets big and small,contributed,1
+814,Principles and best practices in data versioning for all data sets big and small,dataset,1
+815,Principles and best practices in data versioning for all data sets big and small,datasets,1
+816,Principles and best practices in data versioning for all data sets big and small,demand,1
+817,Principles and best practices in data versioning for all data sets big and small,development,1
+818,Principles and best practices in data versioning for all data sets big and small,document,1
+819,Principles and best practices in data versioning for all data sets big and small,domains,1
+820,Principles and best practices in data versioning for all data sets big and small,element,1
+821,Principles and best practices in data versioning for all data sets big and small,enables,1
+822,Principles and best practices in data versioning for all data sets big and small,enhances,1
+823,Principles and best practices in data versioning for all data sets big and small,exact,1
+824,Principles and best practices in data versioning for all data sets big and small,extract,1
+825,Principles and best practices in data versioning for all data sets big and small,funding,1
+826,Principles and best practices in data versioning for all data sets big and small,growing,1
+827,Principles and best practices in data versioning for all data sets big and small,https,1
+828,Principles and best practices in data versioning for all data sets big and small,identifiers,1
+829,Principles and best practices in data versioning for all data sets big and small,identify,1
+830,Principles and best practices in data versioning for all data sets big and small,impact,1
+831,Principles and best practices in data versioning for all data sets big and small,increased,1
+832,Principles and best practices in data versioning for all data sets big and small,management,1
+833,Principles and best practices in data versioning for all data sets big and small,means,1
+834,Principles and best practices in data versioning for all data sets big and small,organisation,1
+835,Principles and best practices in data versioning for all data sets big and small,organisations,1
+836,Principles and best practices in data versioning for all data sets big and small,outcomes,1
+837,Principles and best practices in data versioning for all data sets big and small,persistent,1
+838,Principles and best practices in data versioning for all data sets big and small,person,1
+839,Principles and best practices in data versioning for all data sets big and small,produced,1
+840,Principles and best practices in data versioning for all data sets big and small,remote,1
+841,Principles and best practices in data versioning for all data sets big and small,researchers,1
+842,Principles and best practices in data versioning for all data sets big and small,resources,1
+843,Principles and best practices in data versioning for all data sets big and small,results,1
+844,Principles and best practices in data versioning for all data sets big and small,scale,1
+845,Principles and best practices in data versioning for all data sets big and small,services,1
+846,Principles and best practices in data versioning for all data sets big and small,set,1
+847,Principles and best practices in data versioning for all data sets big and small,solution,1
+848,Principles and best practices in data versioning for all data sets big and small,standard,1
+849,Principles and best practices in data versioning for all data sets big and small,underpin,1
+850,Principles and best practices in data versioning for all data sets big and small,variety,1
+851,Principles and best practices in data versioning for all data sets big and small,version,1
+852,Principles and best practices in data versioning for all data sets big and small,wg,1
+853,Principles and best practices in data versioning for all data sets big and small,www.rd,1

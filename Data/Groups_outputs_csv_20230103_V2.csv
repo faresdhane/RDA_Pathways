@@ -1,0 +1,556 @@
+Output_title,Group_Title,Chair_s,Group_Type,DOI,Output_Status,Review_period_starts,Review_period_ends,Description,Primary_WG_Focus_Output_focus,Primary_Domain_Field_of_Expertise,Recommendation_Card,Adoption_Story_Title
+Health Research Performing Organisations (HRPOs) FAIR Guidelines,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",Working Group,NA,Recommendations with RDA Endorsement in Process,2/11/2022,2/12/2022,"
+
+
+
+Raising FAIRness in Health Data and health research performing organisations (HRPOs) WG
+
+
+
+",NA,"Medical and Health Sciences, Medical and Health Sciences/Health biotechnology, Medical and Health Sciences/Basic medicine, Medical and Health Sciences/Clinical medicine, Medical and Health Sciences/Health sciences, Medical and Health Sciences/Other medical sciences",NA,NA
+RDA Professionalising Data Stewardship - Data Stewardship Landscape Report Resource Matrix,Professionalising Data Stewardship IG,"Peter Neish, Romain DAVID, Debora Drucker, Christina Drummond, Yan Wang, Niklas Zimmer, Graham Parton, Jaana Pinnick",Interest Group,NA,RDA Supporting Outputs,31/10/2022,30/11/2022,"
+
+
+Professionalising Data Stewardship IG
+
+
+",NA,NA,NA,NA
+RDA Professionalising Data Stewardship - Data Stewardship Landscape Initial Report,Professionalising Data Stewardship IG,"Peter Neish, Romain DAVID, Debora Drucker, Christina Drummond, Yan Wang, Niklas Zimmer, Graham Parton, Jaana Pinnick",Interest Group,NA,RDA Supporting Outputs,31/10/2022,30/11/2022,"
+
+
+Professionalising Data Stewardship IG
+
+
+",NA,NA,NA,NA
+RDA Professionalising Data Stewardship - Models of Data Stewardship Survey Output Data,Professionalising Data Stewardship IG,"Peter Neish, Romain DAVID, Debora Drucker, Christina Drummond, Yan Wang, Niklas Zimmer, Graham Parton, Jaana Pinnick",Interest Group,NA,RDA Supporting Outputs,12/10/2022,12/11/2022,"This dataset contains responses collected in the Models of Data Stewardship survey completed by the Research Data Alliance Professionalising Data Stewardship Interest Group (RDA PDS-IG) in October-November 2021.
+",NA,NA,NA,NA
+RDA Professionalising Data Stewardship - Current Models of Data Stewardship: Survey Report,Professionalising Data Stewardship IG,"Peter Neish, Romain DAVID, Debora Drucker, Christina Drummond, Yan Wang, Niklas Zimmer, Graham Parton, Jaana Pinnick",Interest Group,NA,RDA Supporting Outputs,12/10/2022,12/11/2022,"This report presents the first analysis of the Models of Data Stewardship survey completed by the Research Data Alliance Professionalising Data Stewardship Interest Group (RDA PDS-IG) in October-November 2021.
+",NA,NA,NA,NA
+Defining Research Software a controversial discussion,FAIR for Research Software (FAIR4RS) WG,"Michelle Barker, Paula Andrea Martinez, Leyla Jael Castro, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",Working Group,10.5281/zenodo.5504016,Other Outputs (Not official),1/6/2021,1/9/2021,"Software is essential in modern research; it plays vital roles at multiple stages of the research lifecycle. The term Research Software is widely used in the academic community but, what do we mean when we use these terms? Software and research? When you think of software, you may think of a digital object that is executed on a machine. Yet software is more than just this, it is a complex and evolving artifact. It may be a concept or a project designed to solve a puzzle by a team or a community that develops its functionalities and algorithms, which might not be digital objects.",NA,Engineering and Technology,NA,NA
+FAIR4RS Adoption support,FAIR for Research Software (FAIR4RS) WG,"Michelle Barker, Paula Andrea Martinez, Leyla Jael Castro, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",Working Group,https://doi.org/10.5281/zenodo.6258365,Other Outputs (Not official),14/04/2022,NA,"In September 2021, the FAIR4RS WG formed subgroups to address milestones for the adoption of the FAIR4RS principles. This document is the output of subgroup 6, focused on adoption support.
+",NA,NA,NA,NA
+10 Things for Curating Reproducible and FAIR Research,CURE-FAIR WG,"Limor Peer, FLORIO JR ARGUILLAS, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",Historical Group,NA,RDA Endorsed Recommendations,13/04/2022,13/05/2022,"""10 Things for Curating Reproducible and FAIR Research,"" describes the key issues of curating reproducible and FAIR research (CURE-FAIR).
+",NA,NA,https://www.rd-alliance.org/sites/default/files/10%20Things%20for%20Curating%20Reproducible%20and%20FAIR%20Research_0.pdf,NA
+The FAIR4RS Team Working Together to Make Research Software FAIR,FAIR for Research Software (FAIR4RS) WG,"Michelle Barker, Paula Andrea Martinez, Leyla Jael Castro, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",Working Group,https://doi.org/10.5281/zenodo.5037157,Other Outputs (Not official),22/03/2022,NA,"The FAIR For Research Software Working Group (FAIR4RS WG) is leading the research software community in the crucial step of agreeing how to apply the FAIR principles to research software, including defining the principles and adoption guidelines. This group was convened under the Research Software Alliance (ReSA), the Research Data Alliance (RDA), and FORCE11 (the Future of Research Communication and Escholarship).",NA,NA,NA,NA
+Recommendations for a minimal metadata set to aid harmonised discovery of learning resources,Education and Training on Handling of Research Data IG,"Laura Molloy, Katarzyna Biernacka, Amy Nurnberger",Interest Group,NA,RDA Supporting Outputs,5/4/2022,9/5/2022," 
+As part of the Education And Training On Handling Of Research Data IG activities, the Minimal Metadata for Learning Resources Focus Group recommends a minimal set of metadata for learning resources. By comparing and analyzing existing learning resource-related metadata schemas to find the overlaps, the group provides guidance on metadata elements that should be minimally required for purposes of learning resource discovery to those concerned with supporting or providing training resources.  This set includes a report, a list of minimal metadata elements along with a data dictionary with examples for how to use the elements, and supporting documents.
+",NA,NA,NA,NA
+Core Characteristics of Learning Resource Collectors,Education and Training on Handling of Research Data IG,"Laura Molloy, Katarzyna Biernacka, Amy Nurnberger",Interest Group,NA,RDA Supporting Outputs,5/4/2022,9/5/2022," 
+As part of the Education And Training On Handling Of Research Data IG (ETHRD-IG) activities, the Learning Resource Collectors Focus Group studied the evolving landscape of learning resources on RDM topics. As we collected and listed a snapshot of current catalogues or registries of learning resources for review, we realized that a set of core characteristics could describe these types of organisations that would be useful to help people evaluate and understand the resources they offer. In addition, the identification of core characteristics could help the organisations themselves consider some of the factors that might help them build, structure, and sustain their collections and the services they offer in support of researchers and data specialists seeking learning resources on RDM and data skills topics. This document also supports the work of another ETHRD-IG focus group that recommends a set of minimal metadata elements for learning resources.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Core%20Characteristics%20of%20Learning%20Resource%20Collectors.pdf,NA
+A Survey on Adoption Guidelines for the FAIR4RS Principles,FAIR for Research Software (FAIR4RS) WG,"Michelle Barker, Paula Andrea Martinez, Leyla Jael Castro, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",Working Group,https://doi.org/10.5281/zenodo.6374598,Other Outputs (Not official),22/03/2022,NA,"The provision of adoption guidelines will help implement the FAIR4RS Principles. The FAIR4RS Working Group formed subgroups to address milestones (as contained in the case statement), including a subgroup on adoption guidelines, FAIR4RS Subgroup 5.",NA,NA,NA,NA
+FAIR Principles for Research Software (FAIR4RS Principles),FAIR for Research Software (FAIR4RS) WG,"Michelle Barker, Paula Andrea Martinez, Leyla Jael Castro, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",Working Group,NA,RDA Endorsed Recommendations,21/03/2022,21/04/2022,"
+
+
+FAIR for Research Software (FAIR4RS) WG
+
+",NA,"Social Sciences, Natural Sciences, Engineering and Technology, Medical and Health Sciences, Agricultural Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/FAIR%20Principles%20for%20Research%20Software%20%28FAIR4RS%20Principles%29.pdf,NA
+A Fresh Look at FAIR for Research Software,FAIR for Research Software (FAIR4RS) WG,"Michelle Barker, Paula Andrea Martinez, Leyla Jael Castro, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",Working Group,NA,Other Outputs (Not official),11/6/2021,NA,"
+
+
+FAIR for Research Software (FAIR4RS) WG
+
+",NA,"Social Sciences, Natural Sciences, Engineering and Technology, Medical and Health Sciences, Agricultural Sciences, Humanities",NA,NA
+The Open Handbook of Linguistic Data Management,Linguistics Data IG,"Andrea Berez-Kroeker, Helene N. Andreassen, Lindsay Ferrara",Interest Group,https://doi.org/10.7551/mitpress/12200.001.0001,Other Outputs (Not official),15/02/2022,NA,"A guide to principles and methods for the management, archiving, sharing, and citing of linguistic research data, especially digital data.
+Published by MIT Press Open, 2022.",NA,"Humanities, Humanities/Languages and literature",NA,NA
+InteroperAble Descriptions of Observable Property Terminologies (I-ADOPT) WG Outputs and Recommendations,InteroperAble Descriptions of Observable Property Terminology WG (I-ADOPT WG),"Barbara Magagna, Anusuriya Devaraju, Gwenaëlle Moncoiffé, Maria Stoica",Working Group,NA,RDA Endorsed Recommendations,3/2/2022,3/3/2022,"
+
+
+ InteroperAble Descriptions of Observable Property Terminology (I-ADOPT) WG
+
+
+",NA,"Natural Sciences, Natural Sciences/Earth and related environmental sciences, Natural Sciences/Biological sciences",https://www.rd-alliance.org/sites/default/files/InteroperAble%20Descriptions%20of%20Observable%20Property%20Terminologies%20%28I-ADOPT%29%20WG%20Outputs%20and%20Recommendations.pdf,NA
+Metadata Schema for the Persistent Identification of Instruments,Persistent Identification of Instruments WG,"Louise Darroch, Markus Stocker, Rolf Krahl, Ted Habermann",Working Group,NA,RDA Endorsed Recommendations,10/1/2022,10/2/2022,"
+
+
+ Persistent Identification of Instruments WG
+
+
+",NA,"Natural Sciences, Natural Sciences/Physical sciences, Natural Sciences/Earth and related environmental sciences",https://www.rd-alliance.org/sites/default/files/Metadata%20Schema%20for%20the%20Persistent%20Identification%20of%20Instruments%20Output%20Card.pdf,NA
+A Collection of Crosswalks from Fifteen Research Data Schemas to Schema.org,Research Metadata Schemas WG,"Mingfang Wu, Sarala Wimalaratne, Adam Shepherd, Leyla Jael Castro",Working Group,NA,RDA Supporting Outputs,12/1/2022,12/2/2022,"
+
+
+
+Research Metadata Schemas WG
+
+
+
+
+Group co-chairs: Mingfang Wu, Sarala Wimalaratne, Adam Shepherd, Leyla Garcia",NA,NA,https://www.rd-alliance.org/sites/default/files/A%20Collection%20of%20Crosswalks%20from%20Fifteen%20Research%20Data%20Schemas%20to%20Schemaorg.pdf,NA
+23 Things Physical Samples,Physical Samples and Collections in the Research Data Ecosystem IG,"Kerstin Lehnert, Jens Klump, Esther Plomp, Lesley Wyborn",Interest Group,NA,RDA Supporting Outputs,2/11/2021,2/12/2021,"
+
+
+
+Physical Samples and Collections in the Research Data Ecosystem IG
+
+
+",NA,NA,NA,NA
+Metadata Principles,Metadata IG,"Keith Jeffery, Rebecca Koskela, Alex Ball",Interest Group,NA,NA,8/8/2021,NA,Metadata Principles and Their Use,NA,NA,NA,NA
+Guidelines for publishing structured metadata on the Web,Research Metadata Schemas WG,"Mingfang Wu, Sarala Wimalaratne, Adam Shepherd, Leyla Jael Castro",Working Group,NA,RDA Endorsed Recommendations,16/06/2021,16/07/2021,"The FAIR principles refer frequently to metadata as a key enabler in discoverability, but also having a major role in accessibility and reusability. Publishing structured metadata on the web can provide a simple and efficient means to increase the FAIRness of research resources: it exposes metadata contained in web pages through a formal mechanism, allowing systematic collection and processing by web-based crawlers.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Guidelines%20for%20Publishing%20Structured%20Metadata%20on%20the%20Web.pdf,NA
+FAIR Principles for Research Software (FAIR4RS Principles),FAIR for Research Software (FAIR4RS) WG,"Michelle Barker, Paula Andrea Martinez, Leyla Jael Castro, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",Working Group,NA,Recommendations with RDA Endorsement in Process,11/6/2021,11/7/2021,"
+
+
+FAIR for Research Software (FAIR4RS) WG
+
+",NA,"Social Sciences, Natural Sciences, Engineering and Technology, Medical and Health Sciences, Agricultural Sciences, Humanities",NA,NA
+RDA17 Plenary session: Establishing a Sensitive Data Interest Group,Sensitive Data Interest Group,"Kristal Spreadborough, Aleksandra Michalewicz, Nichola Burton, Steven McEachern, Romain DAVID, Dharma Akmon, Kristan Kang, Sarah Davidson, Frankie Stevens",Interest Group,NA,Other Outputs (Not official),7/6/2021,NA,"This page contains the resources from the RDA 17 Plenary Session run by the Sensitive Data Interest Group. 
+Session record: https://www.rd-alliance.org/plenaries/rda-17th-plenary-meeting-edinburgh...
+Session Recording (log in required): https://rda-idcc.junolive.co/library/search/sensitive_data_establishing_...",NA,NA,NA,NA
+International Materials Resource Registries Working Group Final Report and Recommendations,International Materials Resource Registries WG,"Raymond Plante, Chandler Becker",Working Group,NA,Recommendations with RDA Endorsement in Process,25/05/2021,25/06/2021,"
+
+
+
+International Materials Resource Registries WG
+
+
+
+
+Group co-chairs: Raymond Plante, Chandler Becker",NA,Engineering and Technology,NA,NA
+Challenges of Curating for Reproducible and FAIR Research Output,CURE-FAIR WG,"Limor Peer, FLORIO JR ARGUILLAS, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",Historical Group,NA,RDA Supporting Outputs,21/04/2021,21/05/2021,"Computational reproducibility is the ability to repeat the analysis and arrive at the same result (National Academies of Sciences, Engineering, and Medicine, 2019).
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Challenges%20of%20Curating%20for%20Reproducible%20and%20FAIR%20Research%20Output%20-%20Output%20Card_0.pdf,NA
+Guidelines for publishing structured metadata on the Web (v2.0 20210416),Research Metadata Schemas WG,"Mingfang Wu, Sarala Wimalaratne, Adam Shepherd, Leyla Jael Castro",Working Group,NA,Other Outputs (Not official),16/04/2021,16/05/2021,"This is the draft version of the final report, post it here for group members' feedback before submit it and go through the RDA process.
+",NA,NA,NA,NA
+Versioning Data Is About More than Revisions A Conceptual Framework and Proposed Principles,Data Versioning IG,"Jens Klump, Lesley Wyborn, Mingfang Wu, Kirsten Elger",Interest Group,NA,Other Outputs (Not official),8/4/2021,NA,The supporting output from this working group has been revised and published to the Data Science Journal.,NA,NA,NA,NA
+RDA COVID-19 Zotero Library - March 2021,RDA COVID-19,"Juan Bicarregui, Anne Cambon-Thomsen, Ingrid Dillo, Natalie Harrower, Sarah Jones, Mark Leggott, Priyanka Pillai",Working Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,RDA COVID-19 Epidemiology,"Claire Austin, Rajini Nagrani, Priyanka Pillai",Working Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,RDA-COVID19-Social-Sciences,"Ingrid Dillo, Iryna Kuchma, Amy Pienta",Working Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,RDA COVID19 Coordination,NA,Coordination Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,RDA COVID19-Legal-Ethical,Anne Cambon-Thomsen,Working Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,RDA-COVID19-Omics,"Natalie Meyers, Rob Hooft, Juan Bicarregui",Working Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,RDA-COVID19-Clinical,"Sergio Bonini, Dawei Lin, Andrea Jackson Dipina, Anne Cambon-Thomsen",Working Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,RDA-COVID19-Community-participation,"Daniel Mietchen, Eva Méndez, Timea Biro, Sarah Jones, Kheeran Dharmawardena, Susanna-Assunta Sansone, Joanne Stocks",Working Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,RDA-COVID19-Software,"Michelle Barker, Hugh Shanahan, Fotis Psomopoulos",Working Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA COVID-19 Zotero Library - March 2021,Epidemiology common standard for surveillance data reporting WG,"Claire Austin, Rajini Nagrani",Historical Group,10.15497/rda00051,RDA Supporting Outputs,5/6/2020,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+Subgroup Moderators:  Claire Austin, Anna Widyastuti, Rajini Nagrani
+
+
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/COVID-19%20WG%20Zotero%20Library.pdf,NA
+RDA Data Usage Metrics WG Recommendations,Data Usage Metrics WG,"Kelly Stathis, Ian Bruno, Matthew Buys",Working Group,10.15497/RDA00062,RDA Endorsed Recommendations,9/3/2021,9/4/2021,"This document outlines next steps and recommendations for widespread adoption of normalized data usage practices, as well as hurdles and limitations to be prioritized going forward. Repositories that utilize these recommendations will help drive a better understanding of data usage and contribute towards the development of research data assessment metrics.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/RDA%20Data%20Usage%20Metrics%20WG%20Recommendations.pdf,NA
+Member survey on bridging the gap between funders and communities - perspectives on benefits and challenges of FAIR assessments V2.0,FAIR Data Maturity Model WG,"Edit Herczog, Keith Russell, Shelley Stall",Working Group,NA,RDA Supporting Outputs,15/01/2021,15/02/2021,"This report provides a consolidated view of the answers collected during a survey conducted in October 2020. This survey was conducted amongst members of the RDA FAIR Data Maturity Model Working Group and aimed at investigating the differences of perspectives on benefits and challenges of the FAIR assessments between members representing funders and research communities.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Member%20survey%20on%20bridging%20the%20gap%20Output%20Card.pdf,NA
+Enhancing Access to Research Data to Combat COVID-19:  Recommendations to Funders,RDA COVID-19,"Juan Bicarregui, Anne Cambon-Thomsen, Ingrid Dillo, Natalie Harrower, Sarah Jones, Mark Leggott, Priyanka Pillai",Working Group,NA,Other Outputs (Not official),NA,NA,"This briefing focuses on the higher level recommendatins to help policymakers and funders maximise timely, quality data sharing and to formulate appropriate responses during public health emergencies, and are meant to provide expert advice to funders on how to support and foster the best possible approach to research dissemination at a systems level, while also providing guidance on shaping grant conditions for COVID-19 research that will promote timely and reusable sharing of research outputs.
+",NA,Medical and Health Sciences,NA,NA
+MindMap Navigation Tool for the RDA COVID-19 Recommendations,RDA COVID-19,"Juan Bicarregui, Anne Cambon-Thomsen, Ingrid Dillo, Natalie Harrower, Sarah Jones, Mark Leggott, Priyanka Pillai",Working Group,NA,Other Outputs (Not official),NA,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+ 
+Authors: RDA-COVID19 WG",NA,Medical and Health Sciences,NA,NA
+DS-Wizard Navigation Tool for the RDA COVID-19 Recommendations,RDA COVID-19,"Juan Bicarregui, Anne Cambon-Thomsen, Ingrid Dillo, Natalie Harrower, Sarah Jones, Mark Leggott, Priyanka Pillai",Working Group,NA,Other Outputs (Not official),NA,NA,"
+
+
+            
+RDA COVID-19
+
+
+
+ 
+Authors: RDA-COVID19 WG
+
+
+
+       
+Website: https://covid-19.ds-wizard.org/dashboard
+
+
+
+ 
+
+
+ 
+
+
+
+Abstract",NA,Medical and Health Sciences,NA,NA
+Recommendations and Capacity Development Resource Kit,Capacity Development for Agriculture Data WG,"Suchith Anand, Chipo Msengezi, Karna Wegner",Working Group,NA,RDA Endorsed Recommendations,17/08/2020,17/09/2020,"
+
+
+Capacity Development for Agriculture Data WG 
+
+
+
+Group co-chairs: Suchith Anand, Chipo Msengezi, Karna Wegner",NA,Agricultural Sciences,https://www.rd-alliance.org/sites/default/files/Recommendations%20and%20Capacity.pdf,NA
+Use cases and identifier schemes for persistent software source code identification (V1.1),RDA/FORCE11 Software Source Code Identification WG,"Roberto Di Cosmo, Martin Fenner, Daniel S. Katz",Historical Group,NA,RDA Supporting Outputs,17/07/2020,4/9/2020,"
+
+
+
+RDA/FORCE11 Software Source Code Identification WG
+As this WG has now completed, please direct any questions or comments about this Output to the Software Source Code Interest Group, which is ongoing.",NA,Engineering and Technology,https://www.rd-alliance.org/sites/default/files/Card%20RDA%2020200910.pdf,NA
+test outputs,DMARC test group 1 - CHANGED,"Alessandro Petrocelli, Chair Name Chair Surname, Luca Di Fiore",Coordination Group,NA,Other Outputs (Not official),2/7/2020,NA,"test
+Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor.",NA,NA,NA,NA
+"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",RDA-COVID19-Omics,"Natalie Meyers, Rob Hooft, Juan Bicarregui",Working Group,NA,RDA Endorsed Recommendations,11/9/2020,NA,                                                                                                                                                                                                                                                                 ,NA,"Social Sciences, Medical and Health Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_COVID-WG.pdf,NA
+"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",RDA-COVID19-Clinical,"Sergio Bonini, Dawei Lin, Andrea Jackson Dipina, Anne Cambon-Thomsen",Working Group,NA,RDA Endorsed Recommendations,11/9/2020,NA,                                                                                                                                                                                                                                                                 ,NA,"Social Sciences, Medical and Health Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_COVID-WG.pdf,NA
+"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",RDA-COVID19-Community-participation,"Daniel Mietchen, Eva Méndez, Timea Biro, Sarah Jones, Kheeran Dharmawardena, Susanna-Assunta Sansone, Joanne Stocks",Working Group,NA,RDA Endorsed Recommendations,11/9/2020,NA,                                                                                                                                                                                                                                                                 ,NA,"Social Sciences, Medical and Health Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_COVID-WG.pdf,NA
+"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",RDA-COVID19-Software,"Michelle Barker, Hugh Shanahan, Fotis Psomopoulos",Working Group,NA,RDA Endorsed Recommendations,11/9/2020,NA,                                                                                                                                                                                                                                                                 ,NA,"Social Sciences, Medical and Health Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_COVID-WG.pdf,NA
+"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",RDA COVID-19,"Juan Bicarregui, Anne Cambon-Thomsen, Ingrid Dillo, Natalie Harrower, Sarah Jones, Mark Leggott, Priyanka Pillai",Working Group,NA,RDA Endorsed Recommendations,11/9/2020,NA,                                                                                                                                                                                                                                                                 ,NA,"Social Sciences, Medical and Health Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_COVID-WG.pdf,NA
+"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",RDA COVID-19 Epidemiology,"Claire Austin, Rajini Nagrani, Priyanka Pillai",Working Group,NA,RDA Endorsed Recommendations,11/9/2020,NA,                                                                                                                                                                                                                                                                 ,NA,"Social Sciences, Medical and Health Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_COVID-WG.pdf,NA
+"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",RDA-COVID19-Social-Sciences,"Ingrid Dillo, Iryna Kuchma, Amy Pienta",Working Group,NA,RDA Endorsed Recommendations,11/9/2020,NA,                                                                                                                                                                                                                                                                 ,NA,"Social Sciences, Medical and Health Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_COVID-WG.pdf,NA
+"The final version of the RDA COVID-19 Recommendations and Guidelines for Data Sharing, published 30 June 2020",RDA COVID19-Legal-Ethical,Anne Cambon-Thomsen,Working Group,NA,RDA Endorsed Recommendations,11/9/2020,NA,                                                                                                                                                                                                                                                                 ,NA,"Social Sciences, Medical and Health Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_COVID-WG.pdf,NA
+Developing a Research Data Policy Framework for All Journals and Publishers,Data policy standardisation and implementation IG,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Rebecca Grant",Interest Group,10.5334/dsj-2020-005,RDA Supporting Outputs,25/06/2020,25/07/2020,"Defines and describes 14 features of journal research data policies and arranges these into a set of six standard policy types or tiers, which can be adopted by journals and publishers to promote data sharing in a way that encourages good practice and is appropriate for their audience's perceived needs.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/All%20Journals%20and%20Publishers.pdf,NA
+Persistent Identification of Instruments,Persistent Identification of Instruments WG,"Louise Darroch, Markus Stocker, Rolf Krahl, Ted Habermann",Working Group,10.5334.dsj-2020-018,RDA Supporting Outputs,17/06/2020,17/07/2020,"
+
+
+ Persistent Identification of Instruments WG
+
+
+",NA,"Natural Sciences, Natural Sciences/Physical sciences, Natural Sciences/Earth and related environmental sciences",https://www.rd-alliance.org/sites/default/files/Persistent%20Identification%20of%20Instruments_0.pdf,NA
+FAIR Data Maturity Model specification and guidelines,FAIR Data Maturity Model WG,"Edit Herczog, Keith Russell, Shelley Stall",Working Group,10.15497/rda00050,RDA Endorsed Recommendations,8/6/2020,NA,"This document describes a maturity model for FAIR assessment with assessment indicators, priorities and evaluation methods. This is useful for the normalisation of assessment approaches to enable comparison of their results.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/FAIR%20Data%20Maturity%20Model.pdf,Accelerating the implementation of FAIR assessment in practice
+Sharing COVID-19 Epidemiology Data,RDA COVID-19 Epidemiology,"Claire Austin, Rajini Nagrani, Priyanka Pillai",Working Group,10.15497/rda00049  ,RDA Supporting Outputs,31/08/2020,21/09/2020,"An immediate understanding of the COVID-19 disease epidemiology is crucial to slowing infections, minimizing deaths, and making informed decisions about when, and to what extent, to impose mitigation measures, and when and how to reopen society.
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/Sharing%20COVID-19%20Epidemiology%20Data.pdf,NA
+Sharing COVID-19 Epidemiology Data,RDA COVID-19,"Juan Bicarregui, Anne Cambon-Thomsen, Ingrid Dillo, Natalie Harrower, Sarah Jones, Mark Leggott, Priyanka Pillai",Working Group,10.15497/rda00049  ,RDA Supporting Outputs,31/08/2020,21/09/2020,"An immediate understanding of the COVID-19 disease epidemiology is crucial to slowing infections, minimizing deaths, and making informed decisions about when, and to what extent, to impose mitigation measures, and when and how to reopen society.
+",NA,Medical and Health Sciences,https://www.rd-alliance.org/sites/default/files/Sharing%20COVID-19%20Epidemiology%20Data.pdf,NA
+Top 10 FAIR Data & Software Things,Libraries for Research Data IG,"Birgit Schmidt, Christopher Erdmann, Su Nee Goh, Naresh Kumar, Tim Dennis, Jennifer Gu, Susanna Nykyri",Interest Group,10.5281/zenodo.2555497,RDA Supporting Outputs,19/05/2020,19/06/2020,"The Top 10 FAIR Data & Software Things are brief guides (stand alone, self paced training materials), called ""Things"", that can be used by the research community to understand how they can make their research (data and software) more FAIR (Findable, Accessible, Interoperable and Reusable).
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Top%2010%20FAIR%20Data.pdf,NA
+RDA COVID-19 Guidelines and Recommendations (draft versions),RDA-COVID19-Clinical,"Sergio Bonini, Dawei Lin, Andrea Jackson Dipina, Anne Cambon-Thomsen",Working Group,NA,Other Outputs (Not official),24/04/2020,8/6/2020,"Please note:  this is the landing page for the 5 draft versions of the RDA COVID-19 Working Group Recommendations and Guidelines on Data Sharing. These materials are made available following the RDA guiding principle of openness, to allow members and the wider community to view the progression of the document as well as comments received during the 5 review cycles. 
+The final version of the document can be found:",NA,"Social Sciences, Medical and Health Sciences, Humanities",NA,NA
+RDA COVID-19 Guidelines and Recommendations (draft versions),RDA-COVID19-Community-participation,"Daniel Mietchen, Eva Méndez, Timea Biro, Sarah Jones, Kheeran Dharmawardena, Susanna-Assunta Sansone, Joanne Stocks",Working Group,NA,Other Outputs (Not official),24/04/2020,8/6/2020,"Please note:  this is the landing page for the 5 draft versions of the RDA COVID-19 Working Group Recommendations and Guidelines on Data Sharing. These materials are made available following the RDA guiding principle of openness, to allow members and the wider community to view the progression of the document as well as comments received during the 5 review cycles. 
+The final version of the document can be found:",NA,"Social Sciences, Medical and Health Sciences, Humanities",NA,NA
+RDA COVID-19 Guidelines and Recommendations (draft versions),RDA COVID19-Legal-Ethical,Anne Cambon-Thomsen,Working Group,NA,Other Outputs (Not official),24/04/2020,8/6/2020,"Please note:  this is the landing page for the 5 draft versions of the RDA COVID-19 Working Group Recommendations and Guidelines on Data Sharing. These materials are made available following the RDA guiding principle of openness, to allow members and the wider community to view the progression of the document as well as comments received during the 5 review cycles. 
+The final version of the document can be found:",NA,"Social Sciences, Medical and Health Sciences, Humanities",NA,NA
+RDA COVID-19 Guidelines and Recommendations (draft versions),RDA-COVID19-Omics,"Natalie Meyers, Rob Hooft, Juan Bicarregui",Working Group,NA,Other Outputs (Not official),24/04/2020,8/6/2020,"Please note:  this is the landing page for the 5 draft versions of the RDA COVID-19 Working Group Recommendations and Guidelines on Data Sharing. These materials are made available following the RDA guiding principle of openness, to allow members and the wider community to view the progression of the document as well as comments received during the 5 review cycles. 
+The final version of the document can be found:",NA,"Social Sciences, Medical and Health Sciences, Humanities",NA,NA
+RDA COVID-19 Guidelines and Recommendations (draft versions),RDA-COVID19-Social-Sciences,"Ingrid Dillo, Iryna Kuchma, Amy Pienta",Working Group,NA,Other Outputs (Not official),24/04/2020,8/6/2020,"Please note:  this is the landing page for the 5 draft versions of the RDA COVID-19 Working Group Recommendations and Guidelines on Data Sharing. These materials are made available following the RDA guiding principle of openness, to allow members and the wider community to view the progression of the document as well as comments received during the 5 review cycles. 
+The final version of the document can be found:",NA,"Social Sciences, Medical and Health Sciences, Humanities",NA,NA
+RDA COVID-19 Guidelines and Recommendations (draft versions),RDA-COVID19-Software,"Michelle Barker, Hugh Shanahan, Fotis Psomopoulos",Working Group,NA,Other Outputs (Not official),24/04/2020,8/6/2020,"Please note:  this is the landing page for the 5 draft versions of the RDA COVID-19 Working Group Recommendations and Guidelines on Data Sharing. These materials are made available following the RDA guiding principle of openness, to allow members and the wider community to view the progression of the document as well as comments received during the 5 review cycles. 
+The final version of the document can be found:",NA,"Social Sciences, Medical and Health Sciences, Humanities",NA,NA
+RDA COVID-19 Guidelines and Recommendations (draft versions),RDA COVID-19,"Juan Bicarregui, Anne Cambon-Thomsen, Ingrid Dillo, Natalie Harrower, Sarah Jones, Mark Leggott, Priyanka Pillai",Working Group,NA,Other Outputs (Not official),24/04/2020,8/6/2020,"Please note:  this is the landing page for the 5 draft versions of the RDA COVID-19 Working Group Recommendations and Guidelines on Data Sharing. These materials are made available following the RDA guiding principle of openness, to allow members and the wider community to view the progression of the document as well as comments received during the 5 review cycles. 
+The final version of the document can be found:",NA,"Social Sciences, Medical and Health Sciences, Humanities",NA,NA
+RDA COVID-19 Guidelines and Recommendations (draft versions),RDA COVID-19 Epidemiology,"Claire Austin, Rajini Nagrani, Priyanka Pillai",Working Group,NA,Other Outputs (Not official),24/04/2020,8/6/2020,"Please note:  this is the landing page for the 5 draft versions of the RDA COVID-19 Working Group Recommendations and Guidelines on Data Sharing. These materials are made available following the RDA guiding principle of openness, to allow members and the wider community to view the progression of the document as well as comments received during the 5 review cycles. 
+The final version of the document can be found:",NA,"Social Sciences, Medical and Health Sciences, Humanities",NA,NA
+Scholix Metadata Schema for Exchange of Scholarly Communication Links,RDA/WDS Scholarly Link Exchange (Scholix) WG,"Helena Cousijn, Paolo Manghi, Rachael Lammey, Lorenzo Feri",Working Group,NA,RDA Endorsed Recommendations,20/04/2020,20/05/2020,"The Scholix framework together with the DLI aggregation are designed to enable other 3rd party services (domain-specific aggregations, integrations with other global services, discovery tools, impact assessments etc).
+Scholix is an evolving lightweight set of guidelines to increase interoperability.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Scholix%20Metadata%20Schema.pdf,"Improving scholarly communication, linking datasets from institutional repositories with ScholeXplorer."
+Scholix Metadata Schema for Exchange of Scholarly Communication Links,RDA/WDS Scholarly Link Exchange (Scholix) WG,"Helena Cousijn, Paolo Manghi, Rachael Lammey, Lorenzo Feri",Working Group,NA,RDA Endorsed Recommendations,20/04/2020,20/05/2020,"The Scholix framework together with the DLI aggregation are designed to enable other 3rd party services (domain-specific aggregations, integrations with other global services, discovery tools, impact assessments etc).
+Scholix is an evolving lightweight set of guidelines to increase interoperability.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Scholix%20Metadata%20Schema.pdf,Scaling article/data linking infrastructure using the Scholix framework 
+Scholix Metadata Schema for Exchange of Scholarly Communication Links,RDA/WDS Scholarly Link Exchange (Scholix) WG,"Helena Cousijn, Paolo Manghi, Rachael Lammey, Lorenzo Feri",Working Group,NA,RDA Endorsed Recommendations,20/04/2020,20/05/2020,"The Scholix framework together with the DLI aggregation are designed to enable other 3rd party services (domain-specific aggregations, integrations with other global services, discovery tools, impact assessments etc).
+Scholix is an evolving lightweight set of guidelines to increase interoperability.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Scholix%20Metadata%20Schema.pdf,Curating a research institutional scholarly record connecting externally deposited datasets.
+FAIR Data Maturity Model specification and guidelines - draft,FAIR Data Maturity Model WG,"Edit Herczog, Keith Russell, Shelley Stall",Working Group,10.15497/rda00045,Other Outputs (Not official),14/04/2020,13/05/2020,"Findability, Accessibility, Interoperability and Reusability – the FAIR principles – intend to define a minimal set of related but independent and separable guiding principles and practices that enable both machines and humans to find, access, interoperate and re-use research data and metadata. The FAIR principles have to be considered as inspiring concepts but not strict rules. Unfortunately, they often lead to diverse interpretations and ambiguity.
+",NA,NA,NA,NA
+Principles and best practices in data versioning for all data sets big and small,Data Versioning IG,"Jens Klump, Lesley Wyborn, Mingfang Wu, Kirsten Elger",Interest Group,NA,RDA Supporting Outputs,28/01/2020,28/02/2020,"The demand for better reproducibility of research results is growing. More and more data is becoming available online. In some cases, the datasets have become so large that downloading the data is no longer feasible. Data can also be offered through web services and accessed on demand.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Principles%20and%20Best%20Practices%20in%20Data%20Versioning.pdf,NA
+Compilation of Data Versioning Use cases from the RDA Data Versioning Working Group,Data Versioning IG,"Jens Klump, Lesley Wyborn, Mingfang Wu, Kirsten Elger",Interest Group,DOI: 10.15497/RDA00041,RDA Supporting Outputs,28/01/2020,28/02/2020,"Data versioning is a fundamental element to ensuring the reproducibility of research. Work in other RDA groups on data provenance and data citation, as well as the W3C Dataset Exchange Working Group, have highlighted that definitions of data versioning concepts and recommended practices are still missing.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Compilation%20of%20Data%20Versioning%20Use%20Cases.pdf,NA
+Tromso recommendations for citation of research data in linguistics,Linguistics Data IG,"Andrea Berez-Kroeker, Helene N. Andreassen, Lindsay Ferrara",Interest Group,NA,RDA Supporting Outputs,4/12/2019,14/01/2020,"
+
+
+Linguistics Data IG
+
+
+Supporting Output Title: Tromsø recommendations for citation of research data in linguistics 
+
+
+Impact: Provides guidance for citing linguistic data in publications to researchers, academic publishers and resource providers.
+
+",NA,"Social Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/Card%20RDA_web_Tromso_recommendation_citation_linguistics_June2020.pdf,Supporting the Slovenian Scientific Publishing Field
+RDA DMP Common Standard for Machine-actionable Data Management Plans,DMP Common Standards WG,"Marek Suchánek, Peter Neish, Tomasz Miksa",Working Group,10.15497/rda00039,RDA Endorsed Recommendations,2/12/2019,13/01/2020,"The DMP Common Standards WG has developed an application profile that allows to express information from traditional DMPs in a machine-actionable way. It allows for automatic exchange, integration, and validation of information provided in DMPs.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_DMPCommon_Standard_for_Machine-actionable_Data_Management_Plans_June2020.pdf,NSD DMP – enabling long-term preservation and sharing of research data
+RDA DMP Common Standard for Machine-actionable Data Management Plans,DMP Common Standards WG,"Marek Suchánek, Peter Neish, Tomasz Miksa",Working Group,10.15497/rda00039,RDA Endorsed Recommendations,2/12/2019,13/01/2020,"The DMP Common Standards WG has developed an application profile that allows to express information from traditional DMPs in a machine-actionable way. It allows for automatic exchange, integration, and validation of information provided in DMPs.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_DMPCommon_Standard_for_Machine-actionable_Data_Management_Plans_June2020.pdf,Enabling machine actionability of Data Management Plans
+RDA DMP Common Standard for Machine-actionable Data Management Plans,DMP Common Standards WG,"Marek Suchánek, Peter Neish, Tomasz Miksa",Working Group,10.15497/rda00039,RDA Endorsed Recommendations,2/12/2019,13/01/2020,"The DMP Common Standards WG has developed an application profile that allows to express information from traditional DMPs in a machine-actionable way. It allows for automatic exchange, integration, and validation of information provided in DMPs.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_DMPCommon_Standard_for_Machine-actionable_Data_Management_Plans_June2020.pdf,Embedding Research Data Management plans in ethics approval and funding application processes
+RDA DMP Common Standard for Machine-actionable Data Management Plans,DMP Common Standards WG,"Marek Suchánek, Peter Neish, Tomasz Miksa",Working Group,10.15497/rda00039,RDA Endorsed Recommendations,2/12/2019,13/01/2020,"The DMP Common Standards WG has developed an application profile that allows to express information from traditional DMPs in a machine-actionable way. It allows for automatic exchange, integration, and validation of information provided in DMPs.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_DMPCommon_Standard_for_Machine-actionable_Data_Management_Plans_June2020.pdf,Implementing the DMP Common Standard on the Argos tool for maDMPs
+Autenticação Federada no Dataverse,RDA in Brazil,"Bianca Amaro, LUIZ FAUTH, Patricia R. Bello Bertin, Vanessa Jorge, Leandro Neumann Ciuffo",National Groups,NA,Other Outputs (Not official),28/11/2019,NA,"Caros, no Dataverse de Harvard (https://dataverse.harvard.edu/) é possível autenticar com credenciais institucionais. Em conversa com o Jonathan Crabtree, da Global Dataverse Community Consortium (GDCC), ele confirmou que uma boa estratégia seria termos a implementação da autenticação federada brasileira, a CAFe, para os Dataverses institucionais nacionais. Assim, evitaríamos o retrabalho de criação e manutenção de novas contas além de permitir a colaboração da comunidade federada nacional.",NA,Engineering and Technology,NA,NA
+Engaging Researchers with Data Management The Cookbook,Libraries for Research Data IG,"Birgit Schmidt, Christopher Erdmann, Su Nee Goh, Naresh Kumar, Tim Dennis, Jennifer Gu, Susanna Nykyri",Interest Group,DOI:  10.11647/OBP.0185 ,RDA Supporting Outputs,6/11/2019,6/12/2019,"Engaging Researchers with Data Management is an invaluable collection of 24 case studies, drawn from institutions across the globe, that demonstrate clearly and practically how to engage the research community with RDM. These case studies together illustrate the variety of innovative strategies research institutions have developed to engage with their researchers about managing research data.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card_RDA_Engaging_Researchers_with_Data_Management_The_Cookbook_June2020.pdf,NA
+A curriculum for foundational Research Data Science skills for Early Career Researchers,RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,"Andrew Harrison, Simon Hodson, Robert Quick, Hugh Shanahan",Working Group,10.15497/rda00038,RDA Endorsed Recommendations,11/10/2019,11/11/2019,"This recommendation describes the curriculum and example materials to give Early Career Researchers (ECR’s) the foundational skills in Data Science to work with their data. This curriculum combines technical skills, such as Software Carpentry with responsible research practices such as Open and Responsible Research.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Curriculum_for_foundational_Research_Data_Science_skills_for_Early_Career_Researchers_June2020.pdf,NA
+39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,Agrisemantics WG,"brandon whitehead, Caterina Caracciolo, Sophie Aubin",Working Group,doi.org/10.15497/RDA00036,RDA Endorsed Recommendations,17/07/2019,17/08/2019,"This document presents the recommendations of the RDA Agrisemantics Working Group (WG) to promote the use of semantics for agricultural data for the purpose of enhancing data interoperability in agriculture. These recommendations are high-level, to encourage researchers and practitioners to extend them according to their area of expertise. 
+",NA,Agricultural Sciences,https://www.rd-alliance.org/sites/default/files/Card_RDA_39%20Hints_Facilitate_the_Use_of_Semantics_for_Data_AgricultureandNutrition_June2020.pdf,39 Hints to Facilitate the Use of Semantics for Data on Agriculture the Nutrition
+39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition,Agrisemantics WG,"brandon whitehead, Caterina Caracciolo, Sophie Aubin",Working Group,doi.org/10.15497/RDA00036,RDA Endorsed Recommendations,17/07/2019,17/08/2019,"This document presents the recommendations of the RDA Agrisemantics Working Group (WG) to promote the use of semantics for agricultural data for the purpose of enhancing data interoperability in agriculture. These recommendations are high-level, to encourage researchers and practitioners to extend them according to their area of expertise. 
+",NA,Agricultural Sciences,https://www.rd-alliance.org/sites/default/files/Card_RDA_39%20Hints_Facilitate_the_Use_of_Semantics_for_Data_AgricultureandNutrition_June2020.pdf,Data standards for Agriculture: INRA adoption of RDA Outputs
+Results of an Analysis of Existing FAIR Assessment Tools,FAIR Data Maturity Model WG,"Edit Herczog, Keith Russell, Shelley Stall",Working Group,DOI: 10.15497/RDA00035,RDA Supporting Outputs,27/05/2019,27/06/2019,"This document is a first output of the FAIR Data Maturity Model WG. This resulted in five slide decks, combined in this pdf document, that make up this preliminary analysis.
+The document was updated after the community review period, and the current version v3 is attached to this page. The previous version v0.02, which underwent the community review, is also available.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_FAIR_Assessment_Tools_June2020.pdf,NA
+WDSRDA Assessment of Data Fitness for Use WG Outputs and Recommendations,WDS/RDA Assessment of Data Fitness for Use WG,"Michael Diepenbroek, Claire Austin, Jonathan Petters, Marina Soares e Silva",Historical Group,doi.org/10.15497/RDA00034,RDA Supporting Outputs,19/06/2019,19/07/2019,"This statement describes the background, efforts and outputs of the WDS/RDA Assessment of Data Fitness for Use Working Group. This group was chartered to develop criteria, procedures for assessment of research data fitness for use, along with a means to communicate this assessment to others. It concluded with development of a) criteria for research dataset fitness for use compared against the CoreTrustSeal requirements and FAIR principles, and b) a checklist for evaluation of dataset for fitness for use meant to supplement the CoreTrustSeal Repository Certification process. The checklist carries with it numerous caveats that exemplify the broad landscape surrounding dataset fitness assessment that this working group has mapped.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card_RDA_WDS%3ARDA_Assessment_Of_Data_Fitness_For_Use_June2020.pdf,NA
+Recommendation on PID Kernel Information,PID Kernel Information Profile Management WG,"Tobias Weigel, Beth Plale, Jens Klump",Historical Group,10.15497/rda00031,RDA Endorsed Recommendations,13/12/2018,20/01/2019,"Global middleware infrastructure is insufficient for robust data identification, discovery, and use. While infrastructure is emerging within sub-ecosystems such as the DOI ecosystem of services purposed for data and literature objects (i.e., DataCite, CHORUS, CrossRef), in general the layers of abstraction that have made the Internet so easy to build on, is lacking for data especially for computer (machine) automated services.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_PID_Kernel_single%2030.pdf,SEAGrid Science Gateway: Adoption of the PID Kernel Information and Data Type Registry Utilizing the Enhanced Robust Persistent Identification of Data (ERPID) Testbed toward FAIR Scientific Workflows
+Federated Identity Management for Research Collaborations,Federated Identity Management IG,"Carlo Maria Zwölf, Hannah Short",Interest Group,NA,RDA Supporting Outputs,13/11/2018,13/12/2018,"This white-paper expresses common requirements of Research Communities seeking to leverage Identity Federation for Authentication and Authorisation.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card_RDA_Federated_Identity_Management_Research_Collaborations_June2020.pdf,NA
+"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies","FAIRsharing Registry: Connecting data policies, standards and databases RDA WG","Susanna-Assunta Sansone, Peter McQuilton, Simon Hodson, Holly Murray, Graham Smith, Allyson Lister, Rebecca Grant",Working Group,NA,RDA Endorsed Recommendations,11/10/2018,11/12/2018,"This document describes the outputs of a joint RDA-Force11 FAIRsharing WG: the FAIRsharing resource of interlinked records on standards (for identifying, reporting, citing data and metadata), databases (repositories and knowledge-bases) and data policies (from journals, publishers, funders and other organizations), ranging from the generic and multi-disciplinary, to those from specific domains. The FAIRsharing recommendations, to guide the users and producers of standards, databases and repositories on how to best select and describe these resources; and to guide funders and publishers on how to recommend them in data policies. These outputs are tightly bound together as the registry enacts the recommendations, through the provision of well-described and interlinked records, which are curated and maintained with the support and input of the producers of these resources.
+",NA,"Social Sciences, Natural Sciences, Engineering and Technology, Medical and Health Sciences, Agricultural Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/The%20FAIRsharing%20Registry_single%2019.pdf,Enabling open research publishing
+"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies","FAIRsharing Registry: Connecting data policies, standards and databases RDA WG","Susanna-Assunta Sansone, Peter McQuilton, Simon Hodson, Holly Murray, Graham Smith, Allyson Lister, Rebecca Grant",Working Group,NA,RDA Endorsed Recommendations,11/10/2018,11/12/2018,"This document describes the outputs of a joint RDA-Force11 FAIRsharing WG: the FAIRsharing resource of interlinked records on standards (for identifying, reporting, citing data and metadata), databases (repositories and knowledge-bases) and data policies (from journals, publishers, funders and other organizations), ranging from the generic and multi-disciplinary, to those from specific domains. The FAIRsharing recommendations, to guide the users and producers of standards, databases and repositories on how to best select and describe these resources; and to guide funders and publishers on how to recommend them in data policies. These outputs are tightly bound together as the registry enacts the recommendations, through the provision of well-described and interlinked records, which are curated and maintained with the support and input of the producers of these resources.
+",NA,"Social Sciences, Natural Sciences, Engineering and Technology, Medical and Health Sciences, Agricultural Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/The%20FAIRsharing%20Registry_single%2019.pdf,Supporting the Slovenian Scientific Publishing Field
+"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies","FAIRsharing Registry: Connecting data policies, standards and databases RDA WG","Susanna-Assunta Sansone, Peter McQuilton, Simon Hodson, Holly Murray, Graham Smith, Allyson Lister, Rebecca Grant",Working Group,NA,RDA Endorsed Recommendations,11/10/2018,11/12/2018,"This document describes the outputs of a joint RDA-Force11 FAIRsharing WG: the FAIRsharing resource of interlinked records on standards (for identifying, reporting, citing data and metadata), databases (repositories and knowledge-bases) and data policies (from journals, publishers, funders and other organizations), ranging from the generic and multi-disciplinary, to those from specific domains. The FAIRsharing recommendations, to guide the users and producers of standards, databases and repositories on how to best select and describe these resources; and to guide funders and publishers on how to recommend them in data policies. These outputs are tightly bound together as the registry enacts the recommendations, through the provision of well-described and interlinked records, which are curated and maintained with the support and input of the producers of these resources.
+",NA,"Social Sciences, Natural Sciences, Engineering and Technology, Medical and Health Sciences, Agricultural Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/The%20FAIRsharing%20Registry_single%2019.pdf,Fostering reproducible research. Supporting researchers to publish FAIR data alongside their scholarly publication 
+"The FAIRsharing Registry and Recommendations Interlinking Standards, Databases and Data Policies","FAIRsharing Registry: Connecting data policies, standards and databases RDA WG","Susanna-Assunta Sansone, Peter McQuilton, Simon Hodson, Holly Murray, Graham Smith, Allyson Lister, Rebecca Grant",Working Group,NA,RDA Endorsed Recommendations,11/10/2018,11/12/2018,"This document describes the outputs of a joint RDA-Force11 FAIRsharing WG: the FAIRsharing resource of interlinked records on standards (for identifying, reporting, citing data and metadata), databases (repositories and knowledge-bases) and data policies (from journals, publishers, funders and other organizations), ranging from the generic and multi-disciplinary, to those from specific domains. The FAIRsharing recommendations, to guide the users and producers of standards, databases and repositories on how to best select and describe these resources; and to guide funders and publishers on how to recommend them in data policies. These outputs are tightly bound together as the registry enacts the recommendations, through the provision of well-described and interlinked records, which are curated and maintained with the support and input of the producers of these resources.
+",NA,"Social Sciences, Natural Sciences, Engineering and Technology, Medical and Health Sciences, Agricultural Sciences, Humanities",https://www.rd-alliance.org/sites/default/files/The%20FAIRsharing%20Registry_single%2019.pdf,Data standards for Agriculture: INRA adoption of RDA Outputs
+RDATDWG Attribution Metadata Working Group Final Recommendations,RDA / TDWG Metadata Standards for attribution of physical and digital collections stewardship,"Anne Thessen, Matt Woodburn, Dimitris Koureas",Working Group,NA,RDA Endorsed Recommendations,31/08/2018,30/09/2018,"Research collections are an important tool for understanding the Earth, its systems, and human interaction. Despite the importance of collections, many are not maintained or curated as thoroughly as they should. Part of the reason for this is the lack of professional reward for curation, maintenance, or collection. To address this gap in attribution metadata, this Working Group recommends the use of PROV entities and properties to link people (Agent), the curatorial actions they perform (Activity), and the digital or physical objects they are curating (Entity). Assigning a Role to an Agent is optional. These recommendations are discussed in the context of the RDA and existing standards. A separate technical document gives specific examples of three use cases as RDF Turtle representations and diagrams.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/RDA%3ATDWG_single%2031.pdf,FAIR Digital Object and Natural Science Collections data 
+Persistent identifiers Consolidated assertions,FAIR Digital Object Fabric IG,"Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",Interest Group,NA,RDA Supporting Outputs,20/07/2018,20/08/2018,"Experts from 47 European research infrastructure initiatives and ERICs have agreed on a set of assertions about the nature, the creation and the usage of Persistent Identifiers (PIDs).
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Persistent%20identifiers_%20Consolidated%20assertions_single%2028_0.pdf,NA
+Summary of Virtual Layer Recommendations,FAIR Digital Object Fabric IG,"Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",Interest Group,DOI: 10.15497/RDA00026,RDA Supporting Outputs,20/07/2018,20/08/2018,"This output describes a concept for establishing a comprehensive network of components for the management of digital objects. The concept follows principles of layering and modularity and describes a set of key components required to realize a network for e-infrastructures in practice.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_VirtualLayers_single%2029_0.pdf,NA
+Research Data Repository Interoperability WG Final Recommendations,Research Data Repository Interoperability WG,"Thomas Jejkal, David Wilcox",Historical Group,DOI: 10.15497/RDA00025,RDA Endorsed Recommendations,26/06/2018,26/07/2018,"The goal of the RDA Research Data Repository Interoperability WG (RDRIWG) was to achieve consensus on an adoptable approach to facilitating research data repository interoperability for a defined set of initial use cases. The following document presents final recommendations the members of the RDRIWG have agreed on. It describes a general exchange format based on the well-known BagIt specification complemented with BagIt Profiles, another specification defining how to describe the internal structure of BagIt-based packages. In order to achieve a basic level of interoperability with regard to the content of such exchange packages, the WG members have agreed on recommending to include DataCite metadata in each package. The presented recommendations document describes the exchange format itself together with adoption guidelines and information about related efforts. In addition, early adoptions are publicly available at GitHub and referenced within the document.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Research%20Data%20Repository%20Interoperability%20WG%20Final%20Recommendations.pdf,NA
+A survey of current practices in data search services,Data Discovery Paradigms IG,"Mingfang Wu, Fotis Psomopoulos, Kathleen Gregory",Interest Group,NA,RDA Supporting Outputs,26/06/2018,26/07/2018,"Relevancy ranking is an important component of making a data repository's search system responsive to data seekers’ needs. The Research Data Alliance (RDA) Data Discovery Paradigms Interest Group is a collaborative activity within our data community which aims to improve data searchability. This survey is intended to gather information about the current practices and lessons learnt by data repositories in implementing relevancy ranking in search systems.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2026_Survey.pdf,NA
+Tracing Data - Data Citation Roadmap for Finland,RDA in Finland,NA,RDA Europe National Nodes,NA,Other Outputs (Not official),25/04/2018,NA,"How to cite:
+Laine, H (ed.) 2018 Tracing Data - Data Citation Roadmap for Finland. Helsinki, Finland: Finnish Committee for Research Data. URN: http://urn.fi/URN:NBN:fi-fe201804106446
+SUMMARY",NA,NA,NA,NA
+Session Notes 2018-03-22,Mapping the Landscape IG,"Lesley Wyborn, Ari Asmi, Rowena Davis",Historical Group,NA,Other Outputs (Not official),30/03/2018,NA,"Session notes from RDA P11 (Berlin, Germany). Includes links to session presentation, map index, also attendance sheet and discussion recap. 
+",NA,NA,NA,NA
+Array Database Assessment Recommendations,Array Database Assessment WG,Peter Baumann,Historical Group,NA,Other Outputs (Not official),20/03/2018,9/5/2018,"
+
+
+  Array Database Assessment Working Group 
+
+
+
+Recommendation Title: Array Databases: Concepts, Standards, Implementations",NA,Natural Sciences,NA,NA
+Addressing the Gaps Recommendations for Supporting the Long Tail of Research Data,Long tail of research data IG,Kathleen Shearer,Historical Group,NA,RDA Supporting Outputs,1/3/2018,1/4/2018,"The “Long Tail of Research Data Interest Group” has been assessing the situation of long tail data over the last three years, and urges the broader community to consider the risks and opportunities related to long-tail data. This document provides seven recommendations for a variety of stakeholders, including governments, funders, research institutions and researchers to help improve the current approach to managing long tail data. We call on the community to work together to create necessary and sufficient conditions to ensure we are able to properly steward these valuable research outputs for future generations of researchers.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2027_Addressing%20the%20gaps.pdf,NA
+Draft for Comment: RDA Code of Conduct,RDA Council Private,"Ingrid Dillo, Mark Leggott",Coordination Group,NA,Other Outputs (Not official),14/12/2017,22/01/2018,NOTE: Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative. This work is licensed under a Creative Commons Attribution 3.0 Unported License by Amy Nurnberger and Andrew Treloar.,NA,NA,NA,NA
+Austin Principles of Data Citation in Linguistics,Linguistics Data IG,"Andrea Berez-Kroeker, Helene N. Andreassen, Lindsay Ferrara",Interest Group,NA,Other Outputs (Not official),12/12/2017,21/12/2017,"Data is central to empirical linguistic research. Linguistic data comes in many different forms, and is collected and processed with a wide range of methods. Data citation recognizes the centrality of data to research. Furthermore, it facilitates verification of claims and repurposing of data for other studies.",NA,NA,NA,NA
+Data Discovery Paradigms User Requirements and Recommendations for Data Repositories,Data Discovery Paradigms IG,"Mingfang Wu, Fotis Psomopoulos, Kathleen Gregory",Interest Group,DOI: http://doi.org/10.5334/dsj-2019-003,RDA Supporting Outputs,11/12/2017,15/01/2018,"
+
+
+
+Data Discovery Paradigms IG
+
+
+
+
+Group co-chairs: Siri Jodha Khalsa, Anita de Waard, Mingfang Wu, Fotis Psomopoulos
+
+
+
+
+Supporting Output title:  Data Discovery Paradigms: User Requirements and Recommendations for Data Repositories",NA,NA,https://www.rd-alliance.org/sites/default/files/Data%20Discovery%20Paradigms-%20User%20Requirements%20and%20Recommendations%20for%20Data%20Repositories.pdf,NA
+Eleven Quick Tips for Finding Research Data,Data Discovery Paradigms IG,"Mingfang Wu, Fotis Psomopoulos, Kathleen Gregory",Interest Group,DOI: 10.1371/journal.pcbi.1006038 ,RDA Supporting Outputs,11/12/2017,15/01/2018,"
+
+
+
+Data Discovery Paradigms IG
+
+
+
+
+Group co-chairs: Siri Jodha Khalsa, Anita de Waard, Mingfang Wu, Fotis Psomopoulos
+
+
+
+
+Supporting Output title:  Eleven Quick Tips for Finding Research Data",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_ElevenQuickTips_single%2022.pdf,NA
+Income Streams for Data Repositories,RDA/WDS Publishing Data Cost Recovery for Data Centres IG,"Anita de Waard, Ingrid Dillo, Simon Hodson",Historical Group,DOI: 10.5281/zenodo.46693,RDA Supporting Outputs,29/11/2017,5/1/2018,"Basic funding of data infrastructure may not keep pace with increasing costs. There is a need, therefore, to consider alternative cost recovery options and a diversification of revenue streams. In short: who will pay for public access to research data? The RDA/WDS Interest Group Publishing Data Cost Recovery for Data Centres aims to contribute to strategic thinking on cost recovery by conducting research to understand current and possible cost recovery strategies for data centres.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2023_IncomeStreams.pdf,Towards Sustainable Research Data Repositories
+RDA Research Data Collections WG Recommendations,Research Data Collections WG,"Bridget Almas, Frederik Baumgardt, Tobias Weigel, Thomas Zastrow",Historical Group,DOI: 10.15497/RDA00022,RDA Endorsed Recommendations,13/11/2017,13/12/2017,"This recommendation provides a comprehensive model for actionable collections and a technical interface specification to enable client-server interaction. It also reports on first adoption and implementation efforts across communities and institutions and provides perspectives on the use of data types in connection with collection structures, highlighting pathways for possible future work.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Recommendation%20on%20Research%20Data%20Collections%20.pdf,NSD DMP – enabling long-term preservation and sharing of research data
+Research Data Repository Interoperability Primer,Research Data Repository Interoperability WG,"Thomas Jejkal, David Wilcox",Historical Group,DOI: 10.15497/RDA00020,RDA Supporting Outputs,31/07/2017,NA,"This is the first deliverable of the RDRIWG, the Research Data Repository Interoperability Primer. It presents the targeted use cases as well as an overview of standards, technologies and tools this WG has expertise in and which are potentially a part of the proposed consensus. The main focus of the document is on machine operable interfaces, but it also contains a comprehensible collection of data and metadata formats and models focusing on the exchange of digital content in a generic way. Finally, a selection of custom tools is presented, which might not be adopted, but can support decisions through the experience gained while developing and using them. The present document will serve as a basis for discussions towards a consensus to be accepted by a majority of WG members and platform developers in order to achieve a broad adoption of the WGs' outcome and to make progress toward research data repository interoperability.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Research%20Data%20Repository%20Interoperability%20Primer.pdf,NA
+The Life Cycle of Structural Biology Data,Structural Biology IG,"Lucia Banci, Chris Morris, Antonio Rosato",Historical Group,NA,Other Outputs (Not official),8/6/2017,NA,"
+
+
+RDA Structural Biology Interest Group
+
+
+Supporting Output Title: The Life Cycle of Structural Biology Data
+
+
+Corresponding author: Chris Morris, STFC, Daresbury Laboratory, WA4 4AD
+
+",NA,NA,NA,NA
+Outcomes 2017 Jan-Mar,Research Data Provenance IG,"David Dubin, Nicholas Car",Historical Group,NA,Other Outputs (Not official),NA,NA,"
+establish the Provenance Working Group
+establish and maintain a list of provenance-related resources
+
+listing of provenance conferences
+
+
+
+",NA,NA,NA,NA
+Transparency and Openness in RDA,Council Operations and Coordination subcommittee,Rainer Stotzka,Historical Group,NA,Other Outputs (Not official),NA,NA,"The Council Operations and Coordination Subcommittee (see https://www.rd-alliance.org/about-rda/governance/rda-council/rda-council...) has revised the document on Transparency and Openness in response to the community comment received on the previous version (which is attached to this page).  
+Community comments on this new version are very welcome.",NA,NA,NA,NA
+RDA & CODATA Legal Interoperability Of Research Data Principles And Implementation Guidelines,RDA/CODATA Legal Interoperability IG,"Robert Chen, Christoph Bruch, Simon Hodson, Gail Clement",Interest Group,DOI: 10.5281/zenodo.162241,RDA Supporting Outputs,NA,NA,"The CODATA-RDA Legal Interoperability Interest Group has stu-died the issues related to the intellectual property of data: the resulting outcome is a set of principles and practical implemen-tation guidelines.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Legal%20Interoperability%20of%20Research%20Data-%20Principles%20and%20Implementation%20Guidelines%20.pdf,Supporting the Slovenian Scientific Publishing Field
+CODATA/RDA Summer School in Data Science and Cloud Computing in the Developing World WG Recommendations,RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,"Andrew Harrison, Simon Hodson, Robert Quick, Hugh Shanahan",Working Group,NA,RDA Endorsed Recommendations,NA,NA,"The CODATA/RDA Summer School in Data Science and Cloud Computing in the Developing World WG provides a framework to run a series of Summer Schools in Data Science and data sharing in low and middle income countries (LMICs) with the goal of addressing the gap in research data science skills that stops researchers from reaping the benefits of the data revolution.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2015_CODATASummerSchool.pdf,When lions play leapfrog! Adopting the CODATA-RDA Data Science Summer School curriculum for introductory data science training in South Africa
+Initial thoughts and recommendations on RDA as a Standardisation body,Council Strategy subcommittee,NA,Coordination Group,NA,Other Outputs (Not official),NA,NA,"RDA Council Strategy Subcommittee - 8 November 2016
+
+Context
+The RDA has a clear and transparent process for producing and endorsing its outputs as “Recommendations”[1].",NA,NA,NA,NA
+RDA as a training/education body? A certification body? Is there a mission/future here?,Council Strategy subcommittee,NA,Coordination Group,NA,Other Outputs (Not official),8/11/2016,NA,RDA Council Strategy Subcommittee - 8 November 2016,NA,NA,NA,NA
+Matrix of use cases and functional requirements for research data repository platforms,Repository Platforms for Research Data IG,"Robert Downs, LILi Zhang, Devan Ray Donaldson",Interest Group,DOI: 10.15497/rda00033,RDA Supporting Outputs,4/11/2016,4/12/2016,"The matrix describes the functional requirements identified for research data repository platforms. The functional requirements are based on eleven use cases that describe their requirements for digital repository platforms. The matrix provides a description for forty-four requirements and, for each one, provides a functional requirement score that is based on the use cases. Functional requirements of greater importance are identified with higher functional requirement scores. The functional requirement scores can be used to assess research data repository platforms and to prioritize functional requirements for development and adoption.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Matrix%20of%20use%20cases_single%2018.pdf,NA
+23 Things Libraries for Research Data (Supporting Output),Libraries for Research Data IG,"Birgit Schmidt, Christopher Erdmann, Su Nee Goh, Naresh Kumar, Tim Dennis, Jennifer Gu, Susanna Nykyri",Interest Group,NA,RDA Supporting Outputs,NA,NA,"23 Things: Libraries for Research Data provides an overview of practical, free, online resources and tools that you can begin using today to incorporate research data management into your practice of librarianship from the Libraries for Research Data Interest Group of the Research Data Alliance.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%201_23Thing.pdf,23 Things Revisited Field Guides to Research Data Management
+24 Things Libraries for Research Data (Supporting Output),Libraries for Research Data IG,"Birgit Schmidt, Christopher Erdmann, Su Nee Goh, Naresh Kumar, Tim Dennis, Jennifer Gu, Susanna Nykyri",Interest Group,NA,RDA Supporting Outputs,NA,NA,"23 Things: Libraries for Research Data provides an overview of practical, free, online resources and tools that you can begin using today to incorporate research data management into your practice of librarianship from the Libraries for Research Data Interest Group of the Research Data Alliance.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%201_23Thing.pdf,Data standards for Agriculture: INRA adoption of RDA Outputs
+25 Things Libraries for Research Data (Supporting Output),Libraries for Research Data IG,"Birgit Schmidt, Christopher Erdmann, Su Nee Goh, Naresh Kumar, Tim Dennis, Jennifer Gu, Susanna Nykyri",Interest Group,NA,RDA Supporting Outputs,NA,NA,"23 Things: Libraries for Research Data provides an overview of practical, free, online resources and tools that you can begin using today to incorporate research data management into your practice of librarianship from the Libraries for Research Data Interest Group of the Research Data Alliance.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%201_23Thing.pdf,Improving data management services for researchers at the University of Tartu Library through adopting RDA recommendations
+Building infrastructure through strategies of interconnection,Council Strategy subcommittee,NA,Coordination Group,NA,Other Outputs (Not official),27/08/2016,NA,RDA Council Strategy Subcommittee - (27 August 2016),NA,NA,NA,NA
+Sustainable Business Models for Brokering Middleware to support Research Interoperability,Brokering Governance WG,"Stefano Nativi, Max Craglia, Jay Pearlman",Historical Group,NA,Recommendations with RDA Endorsement in Process,NA,NA,"
+
+
+The Brokering Governance Recommendation discusses the strengths and weakness of different models in the context of long-term sustainment of brokering middleware. Examination of alternatives leads to a prioritization among models with the recognition that no single model by itself is likely to provide the desired sustainment. The analysis suggests that a hybridized model incorporating aspects of three different business models over the lifespan of the brokering middleware, i.e. federally funded data facility guardianship in the establishment stage replaced or supported by a Consortium model and/or Software-as-a- Service as the broker matures, will likely provide the strongest model for sustainment.
+
+
+
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_SustainableBusinessModels_single%202.pdf,NA
+Report prepared at Plenary 3,Structural Biology IG,"Lucia Banci, Chris Morris, Antonio Rosato",Historical Group,NA,Other Outputs (Not official),NA,NA,NA,NA,NA,NA,NA
+Wheat Data Interoperability Recommendations,Wheat Data Interoperability WG,"Esther DZALE YEUMO, Richard Fulss, Rosemary Shrestha",Working Group,DOI: http://dx.doi.org/10.15497/RDA00018 ,RDA Endorsed Recommendations,NA,NA,"These recommendations have been prepared by members of the Wheat Data Interoperability Working Group (WG). The group is coordinated by members of the Wheat Initiative, a global initiative that aims to reinforce synergies between bread and durum wheat national and international research programmes to increase food security, nutritional value and safety while taking into account societal demands for sustainable and resilient agricultural production systems.
+An earlier version of the endorsed guidelines is also available.
+",NA,Agricultural Sciences,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Wheat_Data_single%207.pdf,A Model Of Data Integration Related To Wheat Genetic Resources And Resistance To Fusarium Head Blight
+Wheat Data Interoperability Recommendations,Wheat Data Interoperability WG,"Esther DZALE YEUMO, Richard Fulss, Rosemary Shrestha",Working Group,DOI: http://dx.doi.org/10.15497/RDA00018 ,RDA Endorsed Recommendations,NA,NA,"These recommendations have been prepared by members of the Wheat Data Interoperability Working Group (WG). The group is coordinated by members of the Wheat Initiative, a global initiative that aims to reinforce synergies between bread and durum wheat national and international research programmes to increase food security, nutritional value and safety while taking into account societal demands for sustainable and resilient agricultural production systems.
+An earlier version of the endorsed guidelines is also available.
+",NA,Agricultural Sciences,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Wheat_Data_single%207.pdf,Data standards for Agriculture: INRA adoption of RDA Outputs
+Metadata Standards Directory Working Group Recommendations,Metadata Standards Directory WG,"Jane Greenberg, Keith Jeffery, Rebecca Koskela, Alex Ball",Historical Group,NA,Recommendations with RDA Endorsement in Process,NA,NA,"The Metadata Standards Directory Working Group set out to develop a directory that would enable researchers, and those who support them, to discover metadata standards that would be appropriate for documenting their research data, regardless of their academic discipline. It happened that a directory with similar aims had recently been developed independently by the UK Digital Curation Centre (DCC), so the group collaborated with the DCC on developing the directory further to achieve additional goals regarding coverage, ease of maintenance, and sustainability.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Metadata%20Standards%20Directory.pdf,The Ethnic and Migrant Minorities' (EMMs') Survey Registry: A tool to help make EMM survey data FAIR 
+Metadata Standards Directory Working Group Recommendations,Metadata Standards Directory WG,"Jane Greenberg, Keith Jeffery, Rebecca Koskela, Alex Ball",Historical Group,NA,Recommendations with RDA Endorsement in Process,NA,NA,"The Metadata Standards Directory Working Group set out to develop a directory that would enable researchers, and those who support them, to discover metadata standards that would be appropriate for documenting their research data, regardless of their academic discipline. It happened that a directory with similar aims had recently been developed independently by the UK Digital Curation Centre (DCC), so the group collaborated with the DCC on developing the directory further to achieve additional goals regarding coverage, ease of maintenance, and sustainability.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Metadata%20Standards%20Directory.pdf,Improving the Copernicus Climate Data Store metadata scheme with the RDA metadata standards repository 
+Data Description Registry Interoperability Model,Data Description Registry Interoperability (DDRI) WG,"Amir Aryani, Adrian Burton",Historical Group,NA,RDA Endorsed Recommendations,NA,NA,"Data Description Registry Interoperability WG is working on a series of bi-lateral information exchange projects and an open, extensible, and flexible cross-platform research data discovery software solutions. Research Data Switchboard is a collaborative project by the members of the DDRI WG. This project leverages DataCite DOI, ORCID and other persistent identifiers, and uses simple but effective research graph technology to link datasets.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/DDRI%20Model.pdf,NA
+RDAWDS Publishing Data Workflows WG Recommendations,RDA/WDS Publishing Data Workflows WG,"Suenje Dallmeier-Tiessen, Fiona Murphy, Amy Nurnberger, Varsha Khodiyar",Working Group,DOI: https://doi.org/10.15497/RDA00004,RDA Endorsed Recommendations,NA,NA,"Workflows that enable persistence, quality control and access are all crucial to enhance the possibilities for greater discoverability as well as efficient and reliable reuse of research data. Such workflows for data publishing are at the core of this analysis and working group.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_RDA-WDS_single%204.pdf,"Big data, big responsibility: recording a project's data lineage for publishing reproducible results"
+RDAWDS Publishing Data Workflows WG Recommendations,RDA/WDS Publishing Data Workflows WG,"Suenje Dallmeier-Tiessen, Fiona Murphy, Amy Nurnberger, Varsha Khodiyar",Working Group,DOI: https://doi.org/10.15497/RDA00004,RDA Endorsed Recommendations,NA,NA,"Workflows that enable persistence, quality control and access are all crucial to enhance the possibilities for greater discoverability as well as efficient and reliable reuse of research data. Such workflows for data publishing are at the core of this analysis and working group.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_RDA-WDS_single%204.pdf,Learning to Share - The Road to a Hungarian National Data Publishing Policy
+"An open, universal literature-data cross-linking service - RDAWDS Publishing Data Services WGRecommendations",RDA/WDS Publishing Data Services WG,"Hylke Koers, Adrian Burton",Historical Group,DOI: http://dx.doi.org/10.15497/RDA00002,RDA Endorsed Recommendations,NA,NA,"The ICSU-WDS &amp; RDA Publishing Data Services group proposes an approach to sharing information about the links between the literature and research data. A set of hubs will collect literature­data (as well as data­data) links from their natural communities using minor extensions to existing local procedures and, in some cases, inference. The hubs agree on an interoperability framework with a common information model and open exchange methods, optimised for exchanging information among the hubs. The hubs will serve as an enabling global information infrastructure for the development of (third party) services.
+The Recommendation is also published at the following DOI: http://dx.doi.org/10.15497/RDA00002
+Relevant to this recommendation is also the release of the Scholix framework by ICSU-WDS and RDA, details can be found here: https://rd-alliance.org/rda-and-icsu-wds-announce-scholix-framework-link...
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_An%20open%20universal%20literature-data%20cross-linking%20service_single%205.pdf,NA
+Repository Audit and Certification DSA-WDS Partnership WG Recommendations,CoreTrustSeal Maintenance WG,"Lisa de Leeuw, Jonathan Crabtree",Working Group,https://doi.org/10.17026/dans-22n-gk35,RDA Endorsed Recommendations,NA,NA,"The Catalogue of Common Procedures was developed by the DSA–WDS Partnership Working Group on Repository Audit and Certification, a Working Group (WG) of the Research Data Alliance (RDA) . The goal of the effort was to create a set of harmonized Common Procedures for certification of repositories at the basic level, drawing from the procedures already put in place by the Data Seal of Approval (DSA) and the ICSU World Data System (ICSU­-WDS). These procedures are intended to support the implementation of the Catalogue of Common Requirements developed by the WG to harmonize the certification criteria previously established by the DSA and ICSU-­WDS.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Repository%20Audit%20and%20Certification_single%206_0.pdf,Data standards for Agriculture: INRA adoption of RDA Outputs
+Repository Audit and Certification DSA-WDS Partnership WG Recommendations,CoreTrustSeal Maintenance WG,"Lisa de Leeuw, Jonathan Crabtree",Working Group,https://doi.org/10.17026/dans-22n-gk35,RDA Endorsed Recommendations,NA,NA,"The Catalogue of Common Procedures was developed by the DSA–WDS Partnership Working Group on Repository Audit and Certification, a Working Group (WG) of the Research Data Alliance (RDA) . The goal of the effort was to create a set of harmonized Common Procedures for certification of repositories at the basic level, drawing from the procedures already put in place by the Data Seal of Approval (DSA) and the ICSU World Data System (ICSU­-WDS). These procedures are intended to support the implementation of the Catalogue of Common Requirements developed by the WG to harmonize the certification criteria previously established by the DSA and ICSU-­WDS.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Repository%20Audit%20and%20Certification_single%206_0.pdf,"Enabling FAIR Data in the Earth, Space, and Environmental Sciences"
+Repository Audit and Certification DSA-WDS Partnership WG Recommendations,CoreTrustSeal Maintenance WG,"Lisa de Leeuw, Jonathan Crabtree",Working Group,https://doi.org/10.17026/dans-22n-gk35,RDA Endorsed Recommendations,NA,NA,"The Catalogue of Common Procedures was developed by the DSA–WDS Partnership Working Group on Repository Audit and Certification, a Working Group (WG) of the Research Data Alliance (RDA) . The goal of the effort was to create a set of harmonized Common Procedures for certification of repositories at the basic level, drawing from the procedures already put in place by the Data Seal of Approval (DSA) and the ICSU World Data System (ICSU­-WDS). These procedures are intended to support the implementation of the Catalogue of Common Requirements developed by the WG to harmonize the certification criteria previously established by the DSA and ICSU-­WDS.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Repository%20Audit%20and%20Certification_single%206_0.pdf,Learning to Share - The Road to a Hungarian National Data Publishing Policy
+Repository Audit and Certification DSA-WDS Partnership WG Recommendations,CoreTrustSeal Maintenance WG,"Lisa de Leeuw, Jonathan Crabtree",Working Group,https://doi.org/10.17026/dans-22n-gk35,RDA Endorsed Recommendations,NA,NA,"The Catalogue of Common Procedures was developed by the DSA–WDS Partnership Working Group on Repository Audit and Certification, a Working Group (WG) of the Research Data Alliance (RDA) . The goal of the effort was to create a set of harmonized Common Procedures for certification of repositories at the basic level, drawing from the procedures already put in place by the Data Seal of Approval (DSA) and the ICSU World Data System (ICSU­-WDS). These procedures are intended to support the implementation of the Catalogue of Common Requirements developed by the WG to harmonize the certification criteria previously established by the DSA and ICSU-­WDS.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Repository%20Audit%20and%20Certification_single%206_0.pdf,The RDA CoreTrustSeal adoption story across domains and regions
+Repository Audit and Certification DSA-WDS Partnership WG Recommendations,CoreTrustSeal Maintenance WG,"Lisa de Leeuw, Jonathan Crabtree",Working Group,https://doi.org/10.17026/dans-22n-gk35,RDA Endorsed Recommendations,NA,NA,"The Catalogue of Common Procedures was developed by the DSA–WDS Partnership Working Group on Repository Audit and Certification, a Working Group (WG) of the Research Data Alliance (RDA) . The goal of the effort was to create a set of harmonized Common Procedures for certification of repositories at the basic level, drawing from the procedures already put in place by the Data Seal of Approval (DSA) and the ICSU World Data System (ICSU­-WDS). These procedures are intended to support the implementation of the Catalogue of Common Requirements developed by the WG to harmonize the certification criteria previously established by the DSA and ICSU-­WDS.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Repository%20Audit%20and%20Certification_single%206_0.pdf,Supporting the Slovenian Scientific Publishing Field
+Scalable Dynamic Data Citation Methodology,Data Citation WG,"Andreas Rauber, Mark Parsons",Working Group,NA,RDA Endorsed Recommendations,NA,NA,"The aim of the Dynamic Data Citation Working Group was to devise a simple, scalable mechanism that allows the precise, machine-actionable identification of arbitrary sub selections of data at a given point in time irrespective of any subsequent addition, deletion or modification. The approach recommended by the Working Group relies on dynamic resolution of a data citation via a time-stamped query also known as dynamic data citation. It is based on time-stamped and versioned source data and time-stamped queries utilized for retrieving the desired dataset at the specific time in the appropriate version.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2010_DataCitation.pdf,Dynamic Data Citation for frequently modifying High Resolution Climate Data 
+Scalable Dynamic Data Citation Methodology,Data Citation WG,"Andreas Rauber, Mark Parsons",Working Group,NA,RDA Endorsed Recommendations,NA,NA,"The aim of the Dynamic Data Citation Working Group was to devise a simple, scalable mechanism that allows the precise, machine-actionable identification of arbitrary sub selections of data at a given point in time irrespective of any subsequent addition, deletion or modification. The approach recommended by the Working Group relies on dynamic resolution of a data citation via a time-stamped query also known as dynamic data citation. It is based on time-stamped and versioned source data and time-stamped queries utilized for retrieving the desired dataset at the specific time in the appropriate version.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2010_DataCitation.pdf,Supporting the Slovenian Scientific Publishing Field
+Scalable Dynamic Data Citation Methodology,Data Citation WG,"Andreas Rauber, Mark Parsons",Working Group,NA,RDA Endorsed Recommendations,NA,NA,"The aim of the Dynamic Data Citation Working Group was to devise a simple, scalable mechanism that allows the precise, machine-actionable identification of arbitrary sub selections of data at a given point in time irrespective of any subsequent addition, deletion or modification. The approach recommended by the Working Group relies on dynamic resolution of a data citation via a time-stamped query also known as dynamic data citation. It is based on time-stamped and versioned source data and time-stamped queries utilized for retrieving the desired dataset at the specific time in the appropriate version.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2010_DataCitation.pdf,Improving Citation of evolving data in distributed asynchronous infrastructures 
+Scalable Dynamic Data Citation Methodology,Data Citation WG,"Andreas Rauber, Mark Parsons",Working Group,NA,RDA Endorsed Recommendations,NA,NA,"The aim of the Dynamic Data Citation Working Group was to devise a simple, scalable mechanism that allows the precise, machine-actionable identification of arbitrary sub selections of data at a given point in time irrespective of any subsequent addition, deletion or modification. The approach recommended by the Working Group relies on dynamic resolution of a data citation via a time-stamped query also known as dynamic data citation. It is based on time-stamped and versioned source data and time-stamped queries utilized for retrieving the desired dataset at the specific time in the appropriate version.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2010_DataCitation.pdf,Implementing Data Citation on the Earth Observation Data Centre for Water Resource Monitoring (EODC)
+Scalable Dynamic Data Citation Methodology,Data Citation WG,"Andreas Rauber, Mark Parsons",Working Group,NA,RDA Endorsed Recommendations,NA,NA,"The aim of the Dynamic Data Citation Working Group was to devise a simple, scalable mechanism that allows the precise, machine-actionable identification of arbitrary sub selections of data at a given point in time irrespective of any subsequent addition, deletion or modification. The approach recommended by the Working Group relies on dynamic resolution of a data citation via a time-stamped query also known as dynamic data citation. It is based on time-stamped and versioned source data and time-stamped queries utilized for retrieving the desired dataset at the specific time in the appropriate version.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_single%2010_DataCitation.pdf,"CCCA Dynamic Data Citation, an Extension on Earth Observation Data"
+Machine Actionable Policy Templates - Practical Policy WG Recommendations,Practical Policy WG,"Rainer Stotzka, Reagan Moore",Historical Group,DOI: https://doi.org/10.15497/83E1B3F9-7E17-484A-A466-B3E5775121CC,RDA Endorsed Recommendations,NA,NA,"Computer actionable policies are used to enforce management, automate administrative tasks, validate assessment criteria, and automate scientific analyses. The benefits of using policies include minimization of the amount of labor needed to manage a collection, the ability to publish to the users the rules that are being used, and the ability to automate process management.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_MachineActionable_single%2011.pdf,NA
+PID Information Types (PIT) WG Recommendations,PID Information Types WG,"Tobias Weigel, Tim DiLauro",Historical Group,DOI: doi.org/10.15497/FDAA09D5-5ED0-403D-B97A-2675E1EBE786,RDA Endorsed Recommendations,NA,NA,"The working group on Persistent Identifier Information Types of the Research Data Alliance concerned itself with the essential types of information associated with persistent identifiers. The working group developed a conceptual model for structuring typed information, an application programming interface for access to typed information and a demonstrator implementing the interface. The final deliverable consists of a summarizing report, the interface specification and a set of exemplary types.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_PID%20Information%20Types_single%2012.pdf,NA
+Basic Vocabulary of Foundational Terminology Query Tool - Data Foundation and Terminology (DFT) WG Recommendations,Data Foundation and Terminology WG,"Gary Berg-Cross, Peter Wittenburg, Raphael Ritz",Historical Group,DOI: doi.org/10.15497/06825049-8CA4-40BD-BCAF-DE9F0EA2FADF,RDA Endorsed Recommendations,NA,NA,"Based on 21 data models presented by experts coming from different disciplines and 120 interviews and interactions with different scientists and scientific departments, the DFT group has produced 5 inter-related reports and defined a number of simple definitions for digital data in a registered domain based on an agreed conceptualization.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_BasicVocabulary_single%2014.pdf,NA
+Data Type Model and Registry - Data Type Registries (DTR) WG Recommendations,Data Type Registries WG & #2,"Larry Lannom, Tobias Weigel",Historical Group,DOI: doi.org/10.15497/A5BCD108-ECC4-41BE-91A7-20112FF77458,RDA Endorsed Recommendations,NA,NA,"Often researchers receive a file from colleagues, follow a link, or otherwise encounter data created elsewhere that they would like to make use of in their own work. However, they may not know how to work with it, interpret it or visualise its content, being unfamiliar with the specifics of the structure and/or meaning of the data, ranging from individual observations up to complex data sets. Frequently, researchers need to stop here since it requires too much work to look for explanations, tools, and where tools exist, install them.
+",NA,NA,https://www.rd-alliance.org/sites/default/files/Card%20RDA_Data_Type_Model_Registry_single%2013.pdf,SEAGrid Science Gateway: Adoption of the PID Kernel Information and Data Type Registry Utilizing the Enhanced Robust Persistent Identification of Data (ERPID) Testbed toward FAIR Scientific Workflows

@@ -1,0 +1,491 @@
+Group,Text,n,tf_idf
+Active Data Management Plans IG,dmp,3,0.023173645
+Active Data Management Plans IG,certification,4,0.013798531
+Active Data Management Plans IG,infrastructure,,
+Agrisemantics WG,erosa,15,0.017014424
+Agrisemantics WG,semantics,20,0.01316113
+Agrisemantics WG,agricultural,22,0.01255682
+Agrisemantics WG,agriculture,29,0.015258161
+Agrisemantics WG,semantic,29,0.014690066
+Archives and Records Professionals for Research Data IG,professionals,14,0.021613384
+Archives and Records Professionals for Research Data IG,archives,16,0.032760095
+Archives and Records Professionals for Research Data IG,records,17,0.028194114
+Archives and Records Professionals for Research Data IG,training,,
+Archives and Records Professionals for Research Data IG,discipline,,
+Biodiversity Data Integration IG,specimen,4,0.006945519
+Biodiversity Data Integration IG,specimens,7,0.010017199
+Biodiversity Data Integration IG,tdwg,9,0.012879256
+Biodiversity Data Integration IG,metadata,,
+Biodiversity Data Integration IG,biodiversity,57,0.030625962
+Blockchain Applications in Health WG,infrastructure,,
+Blockchain Applications in Health WG,health,21,0.020129197
+Blockchain Applications in Health WG,blockchain,36,0.076733093
+Brokering Framework Working Group,registry,20,0.014280217
+Brokering Framework Working Group,components,24,0.013404986
+Brokering Framework Working Group,mediation,38,0.057431023
+Brokering Framework Working Group,semantics,,
+Brokering Framework Working Group,interoperability,,
+Brokering Framework Working Group,software,,
+Brokering Framework Working Group,brokering,46,0.050144401
+Capacity Development for Agriculture Data WG,godan,9,0.020348498
+Capacity Development for Agriculture Data WG,agriculture,14,0.019243934
+Capacity Development for Agriculture Data WG,training,,
+Capacity Development for Agriculture Data WG,agricultural,15,0.022367109
+Capacity Development for Agriculture Data WG,igad,18,0.040696995
+Capacity Development for Agriculture Data WG,capacity,28,0.032252198
+Chemistry Research Data IG,professional,8,0.012017911
+Chemistry Research Data IG,chemical,24,0.056995837
+Chemistry Research Data IG,chemistry,24,0.037589962
+CODATA/RDA Research Data Science Schools for Low and Middle Income Countries,training,2,0.018057386
+CODATA/RDA Research Data Science Schools for Low and Middle Income Countries,skills,4,0.025594687
+CODATA/RDA Research Data Science Schools for Low and Middle Income Countries,software,,
+CODATA/RDA Research Data Science Schools for Low and Middle Income Countries,school,5,0.021093731
+CoreTrustSeal Maintenance WG,centres,4,0.022833765
+CoreTrustSeal Maintenance WG,repository,,
+CoreTrustSeal Maintenance WG,standards,,
+CoreTrustSeal Maintenance WG,dsa,5,0.054270831
+CoreTrustSeal Maintenance WG,icsu,5,0.029921399
+CoreTrustSeal Maintenance WG,certification,7,0.033930814
+CoreTrustSeal Maintenance WG,wds,8,0.024403269
+CURE-FAIR WG,recognised,10,0.008631177
+CURE-FAIR WG,reproducible,10,0.008631177
+CURE-FAIR WG,computational,16,0.013245499
+CURE-FAIR WG,reproducibility,18,0.0099875
+CURE-FAIR WG,rewards,,
+CURE-FAIR WG,curate,27,0.035334993
+CURE-FAIR WG,principles,,
+CURE-FAIR WG,fair,39,0.012276475
+Data Citation WG,subsets,10,0.016422824
+Data Citation WG,reference,15,0.01170642
+Data Citation WG,citation,41,0.025775344
+Data Conservation IG,moves,1,0.068157779
+Data Conservation IG,policy,,
+Data Conservation IG,analog,1,0.057964438
+Data Conservation IG,preservation,,
+Data Conservation IG,secured,1,0.057964438
+Data Conservation IG,rescue,2,0.115928877
+Data Conservation IG,conservation,2,0.104003432
+Data Conservation IG,prioritized,2,0.104003432
+Data Discovery Paradigms IG,subgroups,2,0.011539732
+Data Discovery Paradigms IG,findability,,
+Data Discovery Paradigms IG,accessibility,3,0.0210031
+Data Discovery Paradigms IG,search,12,0.041065978
+Data Economics IG,policy,5,0.016865826
+Data Economics IG,markets,7,0.018015151
+Data Economics IG,properties,8,0.015655423
+Data Economics IG,economic,8,0.011619631
+Data Economics IG,economics,13,0.033456708
+Data for Development IG,development,added,
+Data for Development IG,populations,4,0.01795425
+Data for Development IG,international,6,0.016037231
+Data for Development IG,statistics,7,0.02952639
+Data for Development IG,vulnerable,8,0.038557088
+Data for Development IG,policy,,
+Data for Development IG,countries,12,0.023190347
+Data Granularity WG,levels,20,0.010746165
+Data Granularity WG,findability,,
+Data Granularity WG,repository,,
+Data Granularity WG,granularity,72,0.064037834
+Data policy standardisation and implementation IG,journals,5,0.016614353
+Data policy standardisation and implementation IG,journal,6,0.015032604
+Data policy standardisation and implementation IG,policies,13,0.016417653
+Data policy standardisation and implementation IG,implementation,added,
+Data policy standardisation and implementation IG,rewards,,
+Data policy standardisation and implementation IG,policy,19,0.021582638
+Data Repository Attributes WG,exemplars,5,0.011462366
+Data Repository Attributes WG,interoperability,added,0.017079978
+Data Repository Attributes WG,repository,24,0.016448847
+Data Repository Attributes WG,coretrustseal,added,0.01365286
+Data Repository Attributes WG,attributes,25,0.041145799
+Data Usage Metrics WG,rewards,added,
+Data Usage Metrics WG,types,11,0.010352113
+Data Usage Metrics WG,usage,21,0.026618546
+Data Usage Metrics WG,metrics,30,0.0414598
+Data Versioning IG,versioning,28,0.041561638
+Discipline-specific Guidance for Data Management Plans WG,bess,18,0.017867878
+Discipline-specific Guidance for Data Management Plans WG,dmp,29,0.014485366
+Discipline-specific Guidance for Data Management Plans WG,dmps,42,0.027214013
+Discipline-specific Guidance for Data Management Plans WG,standardisation,added,
+Discipline-specific Guidance for Data Management Plans WG,guidance,52,0.015331953
+Discipline-specific Guidance for Data Management Plans WG,discipline,68,0.020620693
+dmp Common Standards WG,automatically,5,0.013493716
+dmp Common Standards WG,actionable,10,0.017802602
+dmp Common Standards WG,machine,10,0.015078412
+dmp Common Standards WG,interoperability,added,0.013138103
+dmp Common Standards WG,dmp,18,0.048577377
+Domain Repositories IG,mentoring,1,0.021963458
+Domain Repositories IG,repository,added,0.021963458
+Domain Repositories IG,interests,2,0.019754119
+Domain Repositories IG,discipline,added,0.029716751
+Domain Repositories IG,repositories,9,0.045060797
+Early Career and Engagement IG,training,5,0.026740718
+Early Career and Engagement IG,implementation,added,0.023989937
+Early Career and Engagement IG,professionals,13,0.033984836
+Early Career and Engagement IG,career,17,0.047742542
+Early Career and Engagement IG,early,18,0.031811995
+"Earth, Space, and Environmental Science Complex Citations Working Group",citation,added,0.074753693
+"Earth, Space, and Environmental Science Complex Citations Working Group",discipline,added,0.074753693
+"Earth, Space, and Environmental Science Complex Citations Working Group",earth,added,0.074753693
+"Earth, Space, and Environmental Science Complex Citations Working Group",semantics,added,0.074753693
+"Earth, Space, and Environmental Science Complex Citations Working Group",town,1,0.074753693
+Education and Training on Handling of Research Data IG,competencies,2,0.02415193
+Education and Training on Handling of Research Data IG,deployment,added,0.023083044
+Education and Training on Handling of Research Data IG,reward,added,0.022256561
+Education and Training on Handling of Research Data IG,professionals,5,0.035811873
+Education and Training on Handling of Research Data IG,skills,5,0.024210492
+Engaging Researchers with Data IG,training,added,0.006301467
+Engaging Researchers with Data IG,discipline,added,0.006301467
+Engaging Researchers with Data IG,adoption,added,0.012602934
+Engaging Researchers with Data IG,colleagues,5,0.011041586
+Engaging Researchers with Data IG,engagement,18,0.007677175
+"ESIP/RDA Earth, Space, and Environmental Sciences IG",skills,added,0.016301
+"ESIP/RDA Earth, Space, and Environmental Sciences IG",discipline,added,0.016121264
+"ESIP/RDA Earth, Space, and Environmental Sciences IG",esip,6,0.011573915
+"ESIP/RDA Earth, Space, and Environmental Sciences IG",environmental,10,0.013980893
+"ESIP/RDA Earth, Space, and Environmental Sciences IG",earth,13,0.018175161
+Ethics and Social Aspects of Data IG,kalpana,2,0.014044633
+Ethics and Social Aspects of Data IG,principals,added,0.011944187
+Ethics and Social Aspects of Data IG,policy,added,0.013751323
+Ethics and Social Aspects of Data IG,stewardship,added,0.039308684
+Exposing Data Management Plans WG,dmptool,10,0.007196355
+Exposing Data Management Plans WG,software,added,0.009530594
+Exposing Data Management Plans WG,standards,added,0.016590619
+Exposing Data Management Plans WG,dmps,36,0.024127266
+Exposing Data Management Plans WG,dmp,61,0.031515458
+FAIR Data Maturity Model WG,rewards,added,0.008932982
+FAIR Data Maturity Model WG,maturity,16,0.011049521
+FAIR Data Maturity Model WG,criteria,19,0.013121306
+FAIR Data Maturity Model WG,assessment,27,0.015129343
+FAIR Data Maturity Model WG,fair,62,0.016939749
+FAIR Digital Object Fabric IG,software,added,0.028226121
+FAIR Digital Object Fabric IG,semantics,added,0.021120718
+FAIR Digital Object Fabric IG,fabric,14,0.034030942
+FAIR Digital Object Fabric IG,standards,added,0.014334617
+FAIR Digital Object Fabric IG,fair,22,0.022791554
+FAIR for Research Software (FAIR4RS) WG,steering,6,0.010385071
+FAIR for Research Software (FAIR4RS) WG,resa,9,0.017363797
+FAIR for Research Software (FAIR4RS) WG,version,added,0.025440506
+FAIR for Research Software (FAIR4RS) WG,fair,42,0.017485391
+FAIR for Research Software (FAIR4RS) WG,software,61,0.027503951
+FAIR for Virtual Research Environments WG,discipline,added,0.016116792
+FAIR for Virtual Research Environments WG,fairness,12,0.012815632
+FAIR for Virtual Research Environments WG,software,added,0.020978465
+FAIR for Virtual Research Environments WG,vres,29,0.056783841
+FAIR for Virtual Research Environments WG,fair,40,0.016900931
+FAIR Principles for Research Hardware,osh,4,0.010722334
+FAIR Principles for Research Hardware,fair4rs,5,0.009393969
+FAIR Principles for Research Hardware,policy,added,0.013151557
+FAIR Principles for Research Hardware,fair,21,0.010330438
+FAIR Principles for Research Hardware,hardware,73,0.137151954
+"FAIRsharing Registry: Connecting data policies, standards and databases RDA WG",repository,added,0.029974006
+"FAIRsharing Registry: Connecting data policies, standards and databases RDA WG",policies,added,
+"FAIRsharing Registry: Connecting data policies, standards and databases RDA WG",fair,added,0.017516206
+"FAIRsharing Registry: Connecting data policies, standards and databases RDA WG",infrastructure,added,0.016183729
+"FAIRsharing Registry: Connecting data policies, standards and databases RDA WG",content,39,0.014581387
+"FAIRsharing Registry: Connecting data policies, standards and databases RDA WG",standards,56,0.010395213
+Federated Identity Management IG,infrastructure,added,0.015474888
+Federated Identity Management IG,aai,4,0.030949776
+Federated Identity Management IG,citations,added,0.030949776
+Federated Identity Management IG,standards,added,0.061899552
+Geospatial IG,infrastructure,added,0.015140519
+Geospatial IG,suggested,3,0.015140519
+Geospatial IG,question,4,0.015494449
+Geospatial IG,geospatial,19,0.054417209
+Global Open Research Commons IG,standards,added,0.00723226
+Global Open Research Commons IG,interoperability,added,0.006488288
+Global Open Research Commons IG,infrastructure,added,0.016875274
+Global Open Research Commons IG,science,22,0.007727395
+Global Open Research Commons IG,commons,32,0.042076034
+Global Water Information IG,gwiig,1,0.058667456
+Global Water Information IG,stewardship,added,0.058667456
+Global Water Information IG,catalogs,1,0.041119426
+Global Water Information IG,infrastructure,1,0.041119426
+Global Water Information IG,geosciences,1,0.041119426
+Global Water Information IG,water,3,0.114884471
+GO FAIR Liaison IG,discipline,added,0.013008521
+GO FAIR Liaison IG,side,2,0.013008521
+GO FAIR Liaison IG,gfig,5,0.038240338
+GO FAIR Liaison IG,ins,12,0.091776812
+GO FAIR Liaison IG,go,27,0.064901368
+GO FAIR Liaison IG,fair,30,0.042105909
+GORC International Model WG,semantic,added,0.007673468
+GORC International Model WG,metrics,added,0.013381107
+GORC International Model WG,infrastructure,added,0.020690718
+GORC International Model WG,attributes,51,0.031217674
+GORC International Model WG,commons,68,0.038369533
+Health Data Interest Group,patient,7,0.011631963
+Health Data Interest Group,discipline,added,0.018522471
+Health Data Interest Group,infrastructure,added,0.023957716
+Health Data Interest Group,healthcare,15,0.024925635
+Health Data Interest Group,health,29,0.021671048
+IG for Surveying Open Data Practices,policy,added,0.006420397
+IG for Surveying Open Data Practices,practice,added,0.009005391
+IG for Surveying Open Data Practices,stewardship,added,0.011380538
+IG for Surveying Open Data Practices,survey,45,0.027822743
+IGAD Community of Practice,standards,added,0.007237994
+IGAD Community of Practice,indigenous,added,0.010641489
+IGAD Community of Practice,agricultural,14,0.016996364
+IGAD Community of Practice,cop,19,0.034974606
+IGAD Community of Practice,igad,35,0.064426905
+International Indigenous Data Sovereignty IG,fair,added,0.010077585
+International Indigenous Data Sovereignty IG,sovereignty,19,0.035986956
+International Indigenous Data Sovereignty IG,principles,added,0.071018499
+International Indigenous Data Sovereignty IG,policy,added,0.054184333
+International Indigenous Data Sovereignty IG,indigenous,40,0.075762012
+International Materials Resource Registries WG,discipline,added,0.015561485
+International Materials Resource Registries WG,ontology,added,0.011872804
+International Materials Resource Registries WG,repository,8,0.020748647
+International Materials Resource Registries WG,materials,41,0.033421198
+InteroperAble Descriptions of Observable Property Terminology WG (I-ADOPT WG),interoperability,added,0.011956439
+InteroperAble Descriptions of Observable Property Terminology WG (I-ADOPT WG),ontology,17,0.010213542
+InteroperAble Descriptions of Observable Property Terminology WG (I-ADOPT WG),environmental,added,0.012356683
+InteroperAble Descriptions of Observable Property Terminology WG (I-ADOPT WG),properties,22,0.012500848
+InteroperAble Descriptions of Observable Property Terminology WG (I-ADOPT WG),semantic,24,0.010497614
+Libraries for Research Data IG,stewardship,added,0.014579716
+Libraries for Research Data IG,training,added,0.012958163
+Libraries for Research Data IG,institutional,2,0.012958163
+Libraries for Research Data IG,library,5,0.022435425
+Libraries for Research Data IG,rdm,7,0.043101234
+Libraries for Research Data IG,libraries,10,0.048088474
+Life Science Data Infrastructures IG,strides,3,0.013988116
+Life Science Data Infrastructures IG,genomics,3,0.010672384
+Life Science Data Infrastructures IG,discipline,added,0.012853559
+Life Science Data Infrastructures IG,repository,added,0.009821792
+Life Science Data Infrastructures IG,infrastructure,added,0.035195718
+Linguistics Data IG,linguists,8,0.028499486
+Linguistics Data IG,reward,added,0.016133201
+Linguistics Data IG,ldig,14,0.049874101
+Linguistics Data IG,semantic,added,0.051504144
+Linguistics Data IG,linguistic,19,0.057563455
+Metadata IG,standards,added,0.016552604
+Metadata IG,visualisation,2,0.016552604
+Metadata IG,contextualisation,3,0.024828905
+Metadata IG,concerned,5,0.021763432
+Metadata IG,metadata,29,0.03249014
+Metadata Standards Catalog WG,infrastructure,added,0.015485968
+Metadata Standards Catalog WG,interoperability,added,0.035396498
+Metadata Standards Catalog WG,catalog,20,0.022263904
+Metadata Standards Catalog WG,standards,35,0.011418608
+Metadata Standards Catalog WG,metadata,37,0.011080499
+National PID Strategies WG,countries,15,0.010566721
+National PID Strategies WG,pids,26,0.03593157
+National PID Strategies WG,policy,added,0.020483263
+National PID Strategies WG,national,38,0.015691759
+National PID Strategies WG,standards,added,0.053774128
+Neuroimaging Community of Practice,discipline,added,0.020518999
+Neuroimaging Community of Practice,stewardship,added,0.021812849
+Neuroimaging Community of Practice,reusability,32,0.062620772
+Open Science Graphs for FAIR Data IG,interoperability,added,0.010473645
+Open Science Graphs for FAIR Data IG,impact,added,0.012528314
+Open Science Graphs for FAIR Data IG,standards,added,0.0133981
+Open Science Graphs for FAIR Data IG,graphs,20,0.062641571
+Open Science Graphs for FAIR Data IG,graph,24,0.075169886
+Persistent Identification of Instruments WG,standards,added,0.011758606
+Persistent Identification of Instruments WG,infrastructure,added,0.031356281
+Persistent Identification of Instruments WG,discipline,added,0.019640052
+Persistent Identification of Instruments WG,pids,58,0.061767987
+Persistent Identification of Instruments WG,instruments,70,0.034578944
+Physical Samples and Collections in the Research Data Ecosystem IG,standards,added,0.009816028
+Physical Samples and Collections in the Research Data Ecosystem IG,discipline,10,0.010773757
+Physical Samples and Collections in the Research Data Ecosystem IG,infrastructure,added,0.019580069
+Physical Samples and Collections in the Research Data Ecosystem IG,samples,20,0.031600866
+Physical Samples and Collections in the Research Data Ecosystem IG,sample,23,0.044301016
+PID IG,pervasive,1,0.032410692
+PID IG,interoperability,added,0.032410692
+PID IG,standards,added,0.035738286
+PID IG,pids,2,0.028947967
+PID IG,pid,5,0.060991512
+"Preservation Tools, Techniques, and Policies",infrastructure,added,0.008237688
+"Preservation Tools, Techniques, and Policies",preserve,5,0.010297111
+"Preservation Tools, Techniques, and Policies",repository,added,0.024148561
+"Preservation Tools, Techniques, and Policies",software,added,0.008114718
+"Preservation Tools, Techniques, and Policies",preservation,25,0.02043468
+Preserving Scientific Annotation WG,standards,added,0.018933531
+Preserving Scientific Annotation WG,pid,20,0.010988121
+Preserving Scientific Annotation WG,psa,37,0.03687056
+Preserving Scientific Annotation WG,software,added,0.027937516
+Preserving Scientific Annotation WG,annotation,98,0.043611783
+Professionalising Data Stewardship IG,training,added,0.010593384
+Professionalising Data Stewardship IG,stewards,18,0.016755983
+Professionalising Data Stewardship IG,institutional,added,0.035456943
+Professionalising Data Stewardship IG,stewardship,51,0.045286967
+Psychological Data Community of Practice,psychology,added,0.025388611
+Psychological Data Community of Practice,training,added,0.031735763
+Psychological Data Community of Practice,regional,added,0.025978926
+Psychological Data Community of Practice,institutional,added,0.026108922
+Psychological Data Community of Practice,fair,added,0.079719217
+Raising FAIRness in health data and health research performing organisations (HRPOs) WG,f4h,8,0.012257135
+Raising FAIRness in health data and health research performing organisations (HRPOs) WG,institutional,added,0.018242032
+Raising FAIRness in health data and health research performing organisations (HRPOs) WG,policy,added,0.008526411
+Raising FAIRness in health data and health research performing organisations (HRPOs) WG,health,29,0.015244955
+Raising FAIRness in health data and health research performing organisations (HRPOs) WG,fair,41,0.011527971
+RDA / TDWG Metadata Standards for attribution of physical and digital collections stewardship,curatorial,5,0.013818512
+RDA / TDWG Metadata Standards for attribution of physical and digital collections stewardship,metadata,added,
+RDA / TDWG Metadata Standards for attribution of physical and digital collections stewardship,life,added,0.013338305
+RDA / TDWG Metadata Standards for attribution of physical and digital collections stewardship,rewards,added,0.015297306
+RDA / TDWG Metadata Standards for attribution of physical and digital collections stewardship,ontology,added,0.016084379
+RDA / TDWG Metadata Standards for attribution of physical and digital collections stewardship,collections,18,0.017068407
+RDA COVID-19,health,added,0.013035162
+RDA COVID-19,fair,added,0.020847333
+RDA COVID-19,covid,7,0.018249226
+RDA COVID-19 Epidemiology,health,added,0.013035162
+RDA COVID-19 Epidemiology,fair,added,0.020847333
+RDA COVID-19 Epidemiology,covid,7,0.018249226
+RDA COVID19-Legal-Ethical,health,added,0.050466915
+RDA COVID19-Legal-Ethical,fair,added,0.066178512
+RDA COVID19-Legal-Ethical,policy,added,0.070852248
+RDA COVID19-Legal-Ethical,legal,6,0.047534632
+RDA for the Sustainable Development Goals IG,sustainable,,
+RDA for the Sustainable Development Goals IG,indicator,6,0.019020776
+RDA for the Sustainable Development Goals IG,partnerships,9,0.014356563
+RDA for the Sustainable Development Goals IG,regional,11,0.022762108
+RDA for the Sustainable Development Goals IG,policy,13,0.04121168
+RDA for the Sustainable Development Goals IG,sdgs,14,0.033861583
+RDA Privacy Implications of Research Data Sets IG,policy,3,0.008668446
+RDA Privacy Implications of Research Data Sets IG,principles,added,0.006965612
+RDA Privacy Implications of Research Data Sets IG,niso,7,0.011151504
+RDA Privacy Implications of Research Data Sets IG,focused,10,0.007901703
+RDA Privacy Implications of Research Data Sets IG,privacy,30,0.03482806
+RDA/CODATA Legal Interoperability IG,repository,added,0.008067413
+RDA/CODATA Legal Interoperability IG,policy,added,0.011308737
+RDA/CODATA Legal Interoperability IG,interoperability,added,0.011226226
+RDA/CODATA Legal Interoperability IG,licensing,18,0.027698042
+RDA/CODATA Legal Interoperability IG,legal,20,0.011652673
+"RDA/CODATA Materials Data, Infrastructure & Interoperability IG",interoperability,added,0.021657612
+"RDA/CODATA Materials Data, Infrastructure & Interoperability IG",infrastructure,added,0.021657612
+"RDA/CODATA Materials Data, Infrastructure & Interoperability IG",discipline,added,0.036837213
+"RDA/CODATA Materials Data, Infrastructure & Interoperability IG",free,2,0.025129148
+"RDA/CODATA Materials Data, Infrastructure & Interoperability IG",materials,5,0.034034466
+"RDA/CODATA Materials Data, Infrastructure & Interoperability IG",exchange,5,0.026593959
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,breakdown,3,0.010003012
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,skills,5,0.011685017
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,curriculum,5,0.010226509
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,training,7,0.019849693
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,school,12,0.02804404
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,steward,NA,NA
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,infrastructure,added,NA
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,rdm,NA,NA
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,fair,NA,NA
+RDA/WDS Certification of Digital Repositories IG,coretrustseal,added,0.0451265
+RDA/WDS Certification of Digital Repositories IG,repository,added,0.032853645
+RDA/WDS Certification of Digital Repositories IG,infrastructure,added,
+RDA/WDS Publishing Data Workflows WG,citation,added,0.006074657
+RDA/WDS Publishing Data Workflows WG,infrastructure,added,0.006849701
+RDA/WDS Publishing Data Workflows WG,institutional,added,0.007300672
+RDA/WDS Publishing Data Workflows WG,publishing,23,0.014512381
+RDA/WDS Publishing Data Workflows WG,workflows,29,0.019849296
+RDA/WDS Scholarly Link Exchange (Scholix) WG,interoperability,added,0.026730913
+RDA/WDS Scholarly Link Exchange (Scholix) WG,citations,added,0.015507828
+RDA/WDS Scholarly Link Exchange (Scholix) WG,semantics,added,0.013587296
+RDA/WDS Scholarly Link Exchange (Scholix) WG,literature,20,0.018365392
+RDA-COVID19-Clinical,health,added,0.020847333
+RDA-COVID19-Clinical,fair,added,0.018249226
+RDA-COVID19-Community-participation,health,added,0.020847333
+RDA-COVID19-Community-participation,fair,added,0.018249226
+RDA-COVID19-Omics,health,added,0.020847333
+RDA-COVID19-Omics,fair,added,0.018249226
+RDA-COVID19-Social-Sciences,health,added,0.053971859
+RDA-COVID19-Social-Sciences,fair,added,0.040784477
+RDA-COVID19-Software,health,added,0.033830139
+RDA-COVID19-Software,fair,added,0.04898176
+RDA-COVID19-Software,software,7,0.047066412
+Repository Platforms for Research Data IG,infrastructure,added,0.009536743
+Repository Platforms for Research Data IG,interoperability,added,0.025040031
+Repository Platforms for Research Data IG,requirements,17,0.012098903
+Repository Platforms for Research Data IG,functional,18,0.036417411
+Repository Platforms for Research Data IG,repository,26,0.018999512
+Reproducible Health Data Services WG,reusability,added,0.012246817
+Reproducible Health Data Services WG,fair,added,0.009778681
+Reproducible Health Data Services WG,clinical,20,0.01497128
+Reproducible Health Data Services WG,curation,20,0.011580544
+Reproducible Health Data Services WG,health,38,0.02266611
+Research Data Architectures in Research Institutions IG,repository,added,0.011235707
+Research Data Architectures in Research Institutions IG,steward,added,0.014333025
+Research Data Architectures in Research Institutions IG,infrastructure,added,0.01181249
+Research Data Architectures in Research Institutions IG,institutions,14,0.015631754
+Research Data Architectures in Research Institutions IG,architectures,15,0.055005292
+Research Data Management in Engineering IG,engineer,6,0.012779584
+Research Data Management in Engineering IG,fair,added,0.017039445
+Research Data Management in Engineering IG,engineers,8,0.009885363
+Research Data Management in Engineering IG,rdm,10,0.011743049
+Research Data Management in Engineering IG,engineering,22,0.020176827
+Research data needs of the Photon and Neutron Science community IG,physical,added,0.060584693
+Research data needs of the Photon and Neutron Science community IG,infrastructure,added,0.060584693
+Research data needs of the Photon and Neutron Science community IG,fair,added,0.060584693
+Research data needs of the Photon and Neutron Science community IG,x,2,0.046223748
+Research data needs of the Photon and Neutron Science community IG,institutional,added,0.040583914
+Research Metadata Schemas WG,semantics,added,0.011552166
+Research Metadata Schemas WG,interoperability,added,0.011789377
+Research Metadata Schemas WG,metadata,added,0.019648962
+Research Metadata Schemas WG,standards,added,0.011625842
+Research Metadata Schemas WG,schema,20,0.039297924
+Sensitive Data Interest Group,policy,added,0.006559463
+Sensitive Data Interest Group,indegenous,added,0.007496529
+Sensitive Data Interest Group,ethically,8,0.005719558
+Sensitive Data Interest Group,consent,12,0.006897621
+Sensitive Data Interest Group,sensitive,143,0.070473743
+Sharing Rewards and Credit (SHARC) IG,bioresource,3,0.006482138
+Sharing Rewards and Credit (SHARC) IG,bioresources,3,0.006482138
+Sharing Rewards and Credit (SHARC) IG,fair,added,0.006482138
+Sharing Rewards and Credit (SHARC) IG,ecology,4,0.007350269
+Sharing Rewards and Credit (SHARC) IG,rewards,5,0.010803564
+Sharing Rewards and Credit (SHARC) IG,metrics,added,0.01512499
+Sharing Rewards and Credit (SHARC) IG,environmental,10,0.00788014
+Sharing Rewards and Credit (SHARC) IG,sharing,na,na
+Skills and training curriculums to support FAIR research software IG,curriculums,2,0.050105178
+Skills and training curriculums to support FAIR research software IG,institutional,added,0.027624729
+Skills and training curriculums to support FAIR research software IG,skills,4,0.028162691
+Skills and training curriculums to support FAIR research software IG,training,4,0.025275526
+Skills and training curriculums to support FAIR research software IG,software,7,0.034854586
+Small Unmanned Aircraft Systems’ Data IG,infrastructure,added,0.011594069
+Small Unmanned Aircraft Systems’ Data IG,metadata,added,0.014492586
+Small Unmanned Aircraft Systems’ Data IG,discipline,added,0.009588321
+Small Unmanned Aircraft Systems’ Data IG,industry,8,0.009316524
+Small Unmanned Aircraft Systems’ Data IG,suas,28,0.061920743
+Social Dynamics of Data Interoperability IG,economics,4,0.010871996
+Social Dynamics of Data Interoperability IG,interoperability,7,0.009693013
+Social Dynamics of Data Interoperability IG,institutional,added,0.018602866
+Social Dynamics of Data Interoperability IG,dynamics,10,0.024968752
+Social Science Research Data IG,discipline,added,0.011116205
+Social Science Research Data IG,policy,added,0.011913511
+Social Science Research Data IG,fair,added,0.040774742
+Social Science Research Data IG,our,13,0.010243537
+Social Science Research Data IG,we,22,0.01057192
+Social Science Research Data IG,social,na,na
+Software Source Code IG,repository,3,0.017390738
+Software Source Code IG,reproducibility,4,0.009831048
+Software Source Code IG,code,16,0.044335476
+Software Source Code IG,version,added,0.038207873
+Software Source Code IG,software,24,0.03624224
+Structure of Information,ontology,added,0.017757582
+Structure of Information,philosophy,2,0.017757582
+Structure of Information,classes,2,0.015101846
+Structure of Information,classical,2,0.015101846
+Structure of Information,discipline,added,0.015101846
+Structure of Information,cognitive,2,0.015101846
+Structure of Information,hierarchical,2,0.015101846
+Structure of Information,perceive,2,0.015101846
+Structure of Information,universality,4,0.035515165
+Structure of Information,complexity,4,0.018678195
+Virtual Research Environment IG (VRE-IG),discipline,added,0.01339517
+Virtual Research Environment IG (VRE-IG),fairness,added,0.01339517
+Virtual Research Environment IG (VRE-IG),software,added,0.023441548
+Virtual Research Environment IG (VRE-IG),vres,added,0.026790341
+Virtual Research Environment IG (VRE-IG),fair,added,0.034175565
+Virtual Research Environment IG (VRE-IG),vre,22,0.051636967
+Vocabulary Services IG,publication,6,0.019392424
+Vocabulary Services IG,controlled,9,0.063490634
+Vocabulary Services IG,vocabularies,9,0.040232359
+Vocabulary Services IG,ontology,added,
+Vocabulary Services IG,vsig,10,0.115005682
+Vocabulary Services IG,vocabulary,11,0.049172884
+Wheat Data Interoperability WG,interoperability,added,0.011903513
+Wheat Data Interoperability WG,agricultural,8,0.014485366
+Wheat Data Interoperability WG,semantics,added,0.027542109
+Wheat Data Interoperability WG,standards,added,0.016784307
+Wheat Data Interoperability WG,wheat,37,0.081669155
+Working Group on Ethical and Legal best practices for Drone Data in a global research context (WELDD),infrastructure,5,0.015380846
+Working Group on Ethical and Legal best practices for Drone Data in a global research context (WELDD),policy,added,0.012098899
+Working Group on Ethical and Legal best practices for Drone Data in a global research context (WELDD),fair,added,0.010947039
+Working Group on Ethical and Legal best practices for Drone Data in a global research context (WELDD),global,added,0.013647846
+Working Group on Ethical and Legal best practices for Drone Data in a global research context (WELDD),suas,20,0.066971907

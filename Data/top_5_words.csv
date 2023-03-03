@@ -1,0 +1,541 @@
+Applicable_Pathways,Text,n
+Data Infrastructures and Environments - Institutional,institutional,5
+Data Infrastructures and Environments - Institutional,managers,5
+Data Infrastructures and Environments - Institutional,rdari,5
+Data Infrastructures and Environments - Institutional,services,5
+Data Infrastructures and Environments - Institutional,management,6
+Data Infrastructures and Environments - Institutional,architectures,7
+Data Infrastructures and Environments - Institutional,institutions,7
+Data Infrastructures and Environments - Institutional / Data Infrastructures and Environments - International,discuss,8
+Data Infrastructures and Environments - Institutional / Data Infrastructures and Environments - International,plan,8
+Data Infrastructures and Environments - Institutional / Data Infrastructures and Environments - International,force11,12
+Data Infrastructures and Environments - Institutional / Data Infrastructures and Environments - International,identification,12
+Data Infrastructures and Environments - Institutional / Data Infrastructures and Environments - International,code,32
+Data Infrastructures and Environments - Institutional / Data Infrastructures and Environments - International,source,32
+Data Infrastructures and Environments - Institutional / Data Infrastructures and Environments - International,software,74
+Data Infrastructures and Environments - Institutional /Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,projects,9
+Data Infrastructures and Environments - Institutional /Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,environmental,14
+Data Infrastructures and Environments - Institutional /Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,eses,16
+Data Infrastructures and Environments - Institutional /Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,earth,17
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",community,3
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",potential,3
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",access,4
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",computing,4
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",discuss,4
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",hpc,6
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",communication,8
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",dmp,2
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",dmps,2
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",dmptool,2
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",existing,2
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",life,3
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",metadata,3
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",moving,3
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",pid,5
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",tools,5
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",fair,6
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",workflows,6
+"Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",pids,7
+Data Infrastructures and Environments - Institutional /Other,aim,6
+Data Infrastructures and Environments - Institutional /Other,previous,6
+Data Infrastructures and Environments - Institutional /Other,activities,7
+Data Infrastructures and Environments - Institutional /Other,community,15
+Data Infrastructures and Environments - Institutional /Other,sensitive,21
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",community,2
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",generated,2
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",identification,2
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",instance,2
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",persistent,2
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",pidinst,3
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",recommendation,3
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",schema,4
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",instrument,5
+"Data Infrastructures and Environments - Institutional /Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",instruments,5
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",identifying,9
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",subsets,10
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",webconference,12
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",review,13
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",citation,20
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",recommendations,23
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",access,4
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",cchc,4
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",cultural,6
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",digital,6
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",heritage,6
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",collections,7
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",labs,8
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",lc,8
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",library,8
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",library’s,8
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Semantics, Ontology, Standardisation",actionable,2
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Semantics, Ontology, Standardisation",developments,2
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Semantics, Ontology, Standardisation",dmps,2
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Semantics, Ontology, Standardisation",machine,2
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Semantics, Ontology, Standardisation",management,2
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Semantics, Ontology, Standardisation",standard,6
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Semantics, Ontology, Standardisation",common,7
+"Data Infrastructures and Environments - Institutional /Training, Stewardship, and Data Management Planning / Semantics, Ontology, Standardisation",dmp,9
+Data Infrastructures and Environments - International,gorc,20
+Data Infrastructures and Environments - International,document,23
+Data Infrastructures and Environments - International,attributes,26
+Data Infrastructures and Environments - International,samples,26
+Data Infrastructures and Environments - International,commons,49
+"Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",citations,5
+"Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",recommendations,6
+"Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",rprd,6
+"Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",repositories,7
+"Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",repository,7
+"Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",metrics,8
+"Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",usage,9
+Data Infrastructures and Environments - International / Other,activities,3
+Data Infrastructures and Environments - International / Other,context,3
+Data Infrastructures and Environments - International / Other,developments,3
+Data Infrastructures and Environments - International / Other,disciplines,3
+Data Infrastructures and Environments - International / Other,future,4
+Data Infrastructures and Environments - International / Other,grants,4
+Data Infrastructures and Environments - International / Other,europe,6
+Data Infrastructures and Environments - International / Other,community,8
+"Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",citing,5
+"Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",complex,6
+"Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",objects,7
+"Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",citation,8
+"Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",doi,8
+"Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",collections,9
+"Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",community,10
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",engaging,6
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",activities,7
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",europe,7
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",stewardship,7
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",researchers,10
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",career,11
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",fairsharing,11
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",engagement,17
+"Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",community,29
+Data Infrastructures and Environments - Regional or Disciplinary,coordinating,4
+Data Infrastructures and Environments - Regional or Disciplinary,domain,5
+Data Infrastructures and Environments - Regional or Disciplinary,global,5
+Data Infrastructures and Environments - Regional or Disciplinary,environmental,8
+Data Infrastructures and Environments - Regional or Disciplinary,earth,10
+Data Infrastructures and Environments - Regional or Disciplinary,eses,15
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,domain,7
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,knowledge,9
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,session,9
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,commons,10
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,disciplines,10
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,improve,10
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,rprd,11
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,repository,16
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International,repositories,22
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",ecosystem,15
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",collections,17
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",forces,20
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",task,22
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",discovery,30
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",physical,32
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",samples,46
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Discipline Focused Data Issues,focus,8
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Discipline Focused Data Issues,management,8
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Discipline Focused Data Issues,materials,8
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Discipline Focused Data Issues,steps,8
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Discipline Focused Data Issues,engineering,9
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Discipline Focused Data Issues,lims,15
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,aidv,10
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,role,10
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,crisis,13
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,ethical,13
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,situations,13
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,legal,14
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,eosc,15
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,dv,19
+Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Other,ai,30
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",chairs,4
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",fair,4
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",framework,4
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",graph,6
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",forces,7
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",osg,7
+"Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",task,8
+Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues,discussion,3
+Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues,june,3
+Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues,infrastructures,4
+Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues,life,8
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",description,7
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",domain,7
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",pids,7
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",datasets,8
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",repositories,8
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",standards,9
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",tools,9
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",metadata,10
+"Data Infrastructures and Environments - Regional or Disciplinary / Semantics, Ontology, Standardisation / Discipline Focused Data Issues",chemistry,20
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward",actionable,5
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward",activities,6
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward",rewarding,6
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward",recommendations,8
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward",sharc,11
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward",principles,14
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward",versioning,31
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",community,6
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",conducted,6
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",assessment,9
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",results,9
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",rewarding,9
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",activities,12
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",discussion,12
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",survey,12
+"Data Lifecycles - Versioning, Provenance, Citation, and Reward / Other",sharc,30
+Discipline Focused Data Issues,annual,2
+Discipline Focused Data Issues,community,2
+Discipline Focused Data Issues,domain,2
+Discipline Focused Data Issues,virtual,3
+Discipline Focused Data Issues,agricultural,6
+Discipline Focused Data Issues,igad,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",badges,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",badging,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",distributed,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",fair,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",increased,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",reproducibility,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",transparency,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",software,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",interfaces,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",notebook,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",tools,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",notebooks,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",scientific,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",lab,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Data Lifecycles - Versioning, Provenance, Citation, and Reward",electronic,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",environments,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",fair,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",management,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",nordic,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",trusted,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",access,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",decisions,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",design,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Institutional /Other",tres,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",pid,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",information,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",objects,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",digital,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",fabric,10
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",fair,18
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",access,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",discovery,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",survey,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",versioning,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",feedback,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",documents,9
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",granularity,16
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Discipline Focused Data Issues",ongoing,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Discipline Focused Data Issues",ontosdg,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Discipline Focused Data Issues",goals,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Discipline Focused Data Issues",session,9
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Discipline Focused Data Issues",development,10
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Discipline Focused Data Issues",sdgs,15
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Research Software",community,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Research Software",force11,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Research Software",existing,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Research Software",repositories,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Research Software",citation,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Research Software",code,9
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Research Software",software,11
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",months,11
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",pids,12
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",study,12
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",community,13
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",framework,14
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",guide,14
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",studies,14
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",strategies,32
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International / Semantics, Ontology, Standardisation",pid,50
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International",trust,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International",community,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International",principles,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Data Infrastructures and Environments - International",commons,11
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues",infrastructures,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues",practice,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues",fair,8
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues",software,8
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues",igad,12
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues",community,13
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues",life,14
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Discipline Focused Data Issues",code,31
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",sdgs,8
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",model,11
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",persistent,11
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",maturity,12
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",sustainable,12
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",identification,15
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",fair,16
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",instruments,17
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary / Training, Stewardship, and Data Management Planning",development,27
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward",relevant,8
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward",principles,11
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward",activities,13
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward",evaluation,16
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward",assessment,21
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward",versioning,25
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",activities,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",ams,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",astrochemistry,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",astrophysics,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",community,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",earth,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",fair,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",issues,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",physics,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",practices,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",publishers,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",current,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",funders,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",journal,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",researchers,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",das,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",statements,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",availability,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Other",policies,10
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",crucial,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",choosing,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",presentation,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",recommendations,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",committee,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",document,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",process,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",eln,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Research Software",french,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",discovery,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",model,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",schemas,5
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",page,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",publishing,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",structured,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",crosswalks,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",schema.org,8
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",metadata,10
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",session,16
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",approaches,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",collection,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",access,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",activities,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",discovery,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",feedback,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",draft,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",guidance,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",granularity,12
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",attendees,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",buzz,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",decentralized,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",development,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",demo,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",discussion,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",researchers,3
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",management,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation / Research Software",blockchain,19
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",materials,14
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",ethrd,15
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",community,19
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",information,22
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",education,29
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",quality,31
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",training,39
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",global,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",stewards,6
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",chairs,8
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",community,8
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",efforts,8
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",task,10
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",pds,24
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Data Lifecycles - Versioning, Provenance, Citation, and Reward",stewardship,29
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Research Software",advance,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Research Software",based,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Research Software",limor,2
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Research Software",computational,4
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Research Software",efforts,7
+"FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning / Research Software",reproducibility,12
+"FAIR, CARE, TRUST - Principles",citation,8
+"FAIR, CARE, TRUST - Principles",hardware,11
+"FAIR, CARE, TRUST - Principles",schema,11
+"FAIR, CARE, TRUST - Principles",principles,20
+"FAIR, CARE, TRUST - Principles",code,24
+"FAIR, CARE, TRUST - Principles",fair,24
+"FAIR, CARE, TRUST - Principles",scholix,24
+"FAIR, CARE, TRUST - Principles",source,24
+"FAIR, CARE, TRUST - Principles",software,56
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",dos,4
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",information,5
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",objects,5
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",digital,7
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",fabric,11
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Data Lifecycles - Versioning, Provenance, Citation, and Reward",fair,23
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Discipline Focused Data Issues",activity,4
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Discipline Focused Data Issues",community,4
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Discipline Focused Data Issues",provide,4
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Discipline Focused Data Issues",ssig,4
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Discipline Focused Data Issues",quality,5
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Discipline Focused Data Issues",sensitive,6
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning",aim,2
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning",aspects,2
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning",attendees,3
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning",implications,3
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning",sensitive,3
+"FAIR, CARE, TRUST - Principles / Data Infrastructures and Environments - International / Training, Stewardship, and Data Management Planning",issues,6
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",fair4rs,12
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",certification,13
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",maturity,13
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",repositories,13
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",model,14
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",principles,26
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",software,26
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment",fair,31
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",shelley,7
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",stall,7
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",agarwal,8
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",citation,9
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",community,9
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",workshop,9
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - International",zenodo,10
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",existing,10
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",fair4vres,10
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",guidance,11
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",software,12
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",principles,15
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",digital,24
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",objects,24
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",vres,33
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Data Infrastructures and Environments - Regional or Disciplinary",fair,52
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Discipline Focused Data Issues",organisations,4
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Discipline Focused Data Issues",performing,4
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Discipline Focused Data Issues",virtual,4
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Discipline Focused Data Issues",fair,5
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Discipline Focused Data Issues",principles,5
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Discipline Focused Data Issues",guidelines,7
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Discipline Focused Data Issues",health,7
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Discipline Focused Data Issues",hrpos,8
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",fair,6
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",metadata,8
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",recommendations,9
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",vssig,9
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",semantic,10
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",applications,12
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",blockchain,17
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Semantics, Ontology, Standardisation",health,19
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",output,4
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",reproducibility,4
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",computational,5
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",cure,5
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",code,6
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",curating,6
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",reproducible,9
+"FAIR, CARE, TRUST - Principles / FAIR, CARE, TRUST - Adoption, Implementation, and Deployment / Training, Stewardship, and Data Management Planning",fair,12
+"FAIR, CARE, TRUST - Principles / Research Software",current,3
+"FAIR, CARE, TRUST - Principles / Research Software",discuss,4
+"FAIR, CARE, TRUST - Principles / Research Software",plan,4
+"FAIR, CARE, TRUST - Principles / Research Software",force11,6
+"FAIR, CARE, TRUST - Principles / Research Software",identification,6
+"FAIR, CARE, TRUST - Principles / Research Software",source,16
+"FAIR, CARE, TRUST - Principles / Research Software",code,17
+"FAIR, CARE, TRUST - Principles / Research Software",software,36
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation",analysis,3
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation",metadata,4
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation",ml,4
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation",principles,5
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation",readiness,9
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation",ai,17
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation",fair,19
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation / Research Software",models,5
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation / Research Software",software,5
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation / Research Software",fair4ml,6
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation / Research Software",discussion,7
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation / Research Software",learning,8
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation / Research Software",machine,8
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation / Research Software",ml,12
+"FAIR, CARE, TRUST - Principles / Semantics, Ontology, Standardisation / Research Software",fair,21
+"FAIR, CARE, TRUST - Principles / Training, Stewardship, and Data Management Planning",focus,3
+"FAIR, CARE, TRUST - Principles / Training, Stewardship, and Data Management Planning",implications,3
+"FAIR, CARE, TRUST - Principles / Training, Stewardship, and Data Management Planning",issues,4
+"FAIR, CARE, TRUST - Principles / Training, Stewardship, and Data Management Planning",sensitive,4
+"FAIR, CARE, TRUST - Principles / Training, Stewardship, and Data Management Planning",survey,4
+"Semantics, Ontology, Standardisation",discuss,6
+"Semantics, Ontology, Standardisation",activities,7
+"Semantics, Ontology, Standardisation",discussion,9
+"Semantics, Ontology, Standardisation",community,11
+"Semantics, Ontology, Standardisation",semantic,13
+"Semantics, Ontology, Standardisation",sensitive,15
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",added,5
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",object,5
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",osg,5
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",graphs,6
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",properties,6
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",graph,7
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward",osgs,7
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",applications,4
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",blockchain,4
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",issues,4
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",ai,5
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",time,5
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",hdig,7
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",healthcare,8
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",twins,8
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",digital,13
+"Semantics, Ontology, Standardisation / Data Lifecycles - Versioning, Provenance, Citation, and Reward / Discipline Focused Data Issues",health,22
+"Semantics, Ontology, Standardisation / Discipline Focused Data Issues",discuss,2
+"Semantics, Ontology, Standardisation / Discipline Focused Data Issues",domain,2
+"Semantics, Ontology, Standardisation / Discipline Focused Data Issues",efforts,2
+"Semantics, Ontology, Standardisation / Discipline Focused Data Issues",engineering,2
+"Semantics, Ontology, Standardisation / Discipline Focused Data Issues",chemistry,4
+"Semantics, Ontology, Standardisation / Discipline Focused Data Issues",ontologies,5
+"Semantics, Ontology, Standardisation / Discipline Focused Data Issues",materials,9
+"Semantics, Ontology, Standardisation / Other",chairs,3
+"Semantics, Ontology, Standardisation / Other",code,3
+"Semantics, Ontology, Standardisation / Other",funders,3
+"Semantics, Ontology, Standardisation / Other",impacts,3
+"Semantics, Ontology, Standardisation / Other",journal,4
+"Semantics, Ontology, Standardisation / Other",quality,4
+"Semantics, Ontology, Standardisation / Other",researchers,4
+"Semantics, Ontology, Standardisation / Other",availability,8
+"Semantics, Ontology, Standardisation / Other",policies,8
+"Semantics, Ontology, Standardisation / Research Software",existing,3
+"Semantics, Ontology, Standardisation / Research Software",zenodo,3
+"Semantics, Ontology, Standardisation / Research Software",lead,4
+"Semantics, Ontology, Standardisation / Research Software",metadata,4
+"Semantics, Ontology, Standardisation / Research Software",principles,4
+"Semantics, Ontology, Standardisation / Research Software",support,4
+"Semantics, Ontology, Standardisation / Research Software",scholix,7
+"Semantics, Ontology, Standardisation / Research Software",fair,8
+"Semantics, Ontology, Standardisation / Research Software",schema,13
+"Semantics, Ontology, Standardisation / Research Software",software,16
+"Training, Stewardship, and Data Management Planning",dmp,8
+"Training, Stewardship, and Data Management Planning",support,10
+"Training, Stewardship, and Data Management Planning",eceig,13
+"Training, Stewardship, and Data Management Planning",engagement,13
+"Training, Stewardship, and Data Management Planning",activities,14
+"Training, Stewardship, and Data Management Planning",career,15
+"Training, Stewardship, and Data Management Planning",management,17
+"Training, Stewardship, and Data Management Planning",researchers,21
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",management,6
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",researchers,6
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",results,6
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",dmp,9
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",dmps,12
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",survey,12
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",specific,17
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues",guidance,21
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",adoption,8
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",eosc,8
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",stories,9
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",career,10
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",researchers,13
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",communities,17
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",engagement,17
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",fairsharing,18
+"Training, Stewardship, and Data Management Planning / Discipline Focused Data Issues / Other",community,45
+"Training, Stewardship, and Data Management Planning / Other",community,4
+"Training, Stewardship, and Data Management Planning / Other",hosted,4
+"Training, Stewardship, and Data Management Planning / Other",models,4
+"Training, Stewardship, and Data Management Planning / Other",codata,5
+"Training, Stewardship, and Data Management Planning / Other",students,5
+"Training, Stewardship, and Data Management Planning / Other",sustainability,6
+"Training, Stewardship, and Data Management Planning / Other",trieste,6
+"Training, Stewardship, and Data Management Planning / Other",school,11
+"Training, Stewardship, and Data Management Planning / Other",schools,15
