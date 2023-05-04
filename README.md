@@ -1,3 +1,5 @@
+![Alt text](https://www.rd-alliance.org/sites/default/files/RDA%20Logo_5.png)
+
 # RDA_Pathways
 The project aims to match Research Data Alliance groups and their outputs to specific pathways.This is achieved through data collection, text mining, and machine learning techniques such as classification or clustering algorithms. The methodology ensures accuracy and efficiency in the process and helps to achieve the objective of better decision-making and strategic planning for the organization.
 
